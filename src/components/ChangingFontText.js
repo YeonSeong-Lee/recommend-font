@@ -1,17 +1,29 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import {
+  notoSansKr,
+  blackHanSans,
+  jua,
+  doHyeon,
+  stylish,
+  poorStory,
+  nanumPenScript,
+  gaegu,
+  pretendard
+} from '@/lib/fonts'
+
 
 const fonts = [
-  { name: 'Pretendard', weight: 700 },
-  { name: 'Apple SD Gothic Neo', weight: 700 },
-  { name: 'Noto Sans KR', weight: 900 },
-  { name: 'Spoqa Han Sans Neo', weight: 500 },
-  { name: 'IBM Plex Sans KR', weight: 600 },
-  { name: 'GmarketSans', weight: 700 },
-  { name: 'SUIT', weight: 800 },
-  { name: 'Wanted Sans', weight: 700 },
-  { name: 'TheJamsil', weight: 600 }
+  { name: 'Pretendard', weight: 700, className: pretendard.className },
+  { name: 'Noto Sans KR', weight: 900, className: notoSansKr.className },
+  { name: 'Black Han Sans', weight: 400, className: blackHanSans.className },
+  { name: 'Jua', weight: 400, className: jua.className },
+  { name: 'Do Hyeon', weight: 400, className: doHyeon.className },
+  { name: 'Stylish', weight: 400, className: stylish.className },
+  { name: 'Poor Story', weight: 400, className: poorStory.className },
+  { name: 'Nanum Pen Script', weight: 400, className: nanumPenScript.className },
+  { name: 'Gaegu', weight: 700, className: gaegu.className }
 ]
 
 const colors = [
@@ -45,9 +57,8 @@ export function ChangingFontText() {
   return (
     <div className="flex flex-col items-center">
       <span
-        className="mt-5"
+        className={`mt-5 ${fonts[currentFontIndex].className}`}
         style={{
-          fontFamily: fonts[currentFontIndex].name,
           fontWeight: fonts[currentFontIndex].weight,
           color: colors[currentFontIndex],
           display: 'inline-block',
