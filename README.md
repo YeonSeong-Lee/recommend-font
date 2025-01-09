@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 폰트 추천 서비스 (Font Recommendation Service)
 
-## Getting Started
+당신의 프로젝트에 어울리는 완벽한 폰트를 찾아드립니다. 웹사이트 URL 분석 또는 질문 기반 추천을 통해 최적의 폰트 조합을 제안받을 수 있습니다.
 
-First, run the development server:
+## 주요 기능
+
+### 1. URL 기반 폰트 추천
+- 웹사이트 URL을 입력하면 해당 사이트의 디자인 요소를 분석
+- 사이트의 성격과 분위기에 어울리는 폰트 추천
+- 실시간 웹사이트 분석 및 결과 제공
+
+### 2. 질문 기반 폰트 추천
+- 프로젝트 유형 선택 (기업, 개인, 쇼핑몰 등)
+- 원하는 분위기 설정 (전문적, 현대적, 친근한, 미니멀 등)
+- 사용자의 선호도를 반영한 맞춤형 폰트 추천
+
+## 기술 스택
+
+- **Frontend**: React 19, Next.js 15 (App Router)
+- **Styling**: Tailwind CSS
+- **Deployment**: Vercel
+
+## 시작하기
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 개발기간
+2025.01.10 ~ 2025.01.XX
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 개발자
+## 개발자
+|<img src="https://github.com/YeonSeong-Lee.png" height=80>|<img src="https://github.com/---.png" height=80>|<img src="https://github.com/---.png" height=80>|
+|:-:|:-:|:-:|
+|[이성연](https://github.com/YeonSeong-Lee)|[김세진](https://github.com/sejin-kim)|[윤상정](https://github.com/sangjeong-yoon)|
