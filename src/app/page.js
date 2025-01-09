@@ -14,16 +14,16 @@ export default function Home() {
         </p>
         <div className="flex gap-4">
           <Link 
-            href="/fonts" 
+            href="/recommend" 
             className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
           >
-            폰트 둘러보기
+            url로 추천받기
           </Link>
           <Link 
-            href="/combinations" 
+            href="/question" 
             className="px-6 py-3 border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors"
           >
-            폰트 조합 추천
+            질문으로 추천받기
           </Link>
         </div>
       </section>
