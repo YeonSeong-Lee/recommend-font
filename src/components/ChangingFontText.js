@@ -43,20 +43,31 @@ export function ChangingFontText() {
   }, [])
 
   return (
-    <span
-      className="my-5"
-      style={{
-        fontFamily: fonts[currentFontIndex].name,
-        fontWeight: fonts[currentFontIndex].weight,
-        color: colors[currentFontIndex],
-        display: 'inline-block',
-        transition: 'all 0.3s ease',
-        transform: isChanging ? 'scale(1.5)' : 'scale(1)',
-        opacity: isChanging ? 0.7 : 1,
-        letterSpacing: '-0.02em'
-      }}
-    >
-      완벽한 폰트
-    </span>
+    <div className="flex flex-col items-center">
+      <span
+        className="mt-5"
+        style={{
+          fontFamily: fonts[currentFontIndex].name,
+          fontWeight: fonts[currentFontIndex].weight,
+          color: colors[currentFontIndex],
+          display: 'inline-block',
+          transition: 'all 0.3s ease',
+          transform: isChanging ? 'scale(1.5)' : 'scale(1)',
+          opacity: isChanging ? 0.7 : 1,
+          letterSpacing: '-0.02em'
+        }}
+      >
+        완벽한 폰트
+      </span>
+      <span 
+        className="text-xs text-gray-500 mt-1"
+        style={{
+          transition: 'all 0.3s ease',
+          opacity: isChanging ? 0 : 1
+        }}
+      >
+        {fonts[currentFontIndex].name}
+      </span>
+    </div>
   )
 } 
