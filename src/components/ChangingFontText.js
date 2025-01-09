@@ -3,11 +3,15 @@
 import { useState, useEffect } from 'react'
 
 const fonts = [
-  'Pretendard',
-  'Apple SD Gothic Neo',
-  'Noto Sans KR',
-  'Spoqa Han Sans Neo',
-  'IBM Plex Sans KR'
+  { name: 'Pretendard', weight: 700 },
+  { name: 'Apple SD Gothic Neo', weight: 700 },
+  { name: 'Noto Sans KR', weight: 900 },
+  { name: 'Spoqa Han Sans Neo', weight: 500 },
+  { name: 'IBM Plex Sans KR', weight: 600 },
+  { name: 'GmarketSans', weight: 700 },
+  { name: 'SUIT', weight: 800 },
+  { name: 'Wanted Sans', weight: 700 },
+  { name: 'TheJamsil', weight: 600 }
 ]
 
 export function ChangingFontText() {
@@ -17,11 +21,10 @@ export function ChangingFontText() {
   useEffect(() => {
     const interval = setInterval(() => {
       setIsChanging(true)
-      // 애니메이션이 끝난 후 다음 폰트로 변경
       setTimeout(() => {
         setCurrentFontIndex((prevIndex) => (prevIndex + 1) % fonts.length)
         setIsChanging(false)
-      }, 150) // 애니메이션 중간 지점에서 폰트 변경
+      }, 150)
     }, 2000)
 
     return () => clearInterval(interval)
@@ -30,11 +33,13 @@ export function ChangingFontText() {
   return (
     <span
       style={{
-        fontFamily: fonts[currentFontIndex],
+        fontFamily: fonts[currentFontIndex].name,
+        fontWeight: fonts[currentFontIndex].weight,
         display: 'inline-block',
         transition: 'all 0.3s ease',
         transform: isChanging ? 'scale(1.1)' : 'scale(1)',
         opacity: isChanging ? 0.7 : 1,
+        letterSpacing: '-0.02em'
       }}
     >
       완벽한 폰트
