@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { ChangingFontText } from '@/components/ChangingFontText'
 
 export default function Home() {
   return (
@@ -6,7 +7,7 @@ export default function Home() {
       <section className="flex flex-col items-center justify-center min-h-[80vh] text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-6">
           당신의 프로젝트에 어울리는<br />
-          <span className="text-blue-600">완벽한 폰트</span>를 찾아보세요
+          <ChangingFontText />
         </h1>
         <p className="text-lg text-gray-600 mb-8 max-w-2xl">
           수천 개의 폰트 중에서 프로젝트에 딱 맞는 폰트를 찾아드립니다
