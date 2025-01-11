@@ -25,6 +25,12 @@ export default function Home() {
           >
             질문으로 추천받기
           </Link>
+          <Link 
+            href="/test-fonts" 
+            className="px-6 py-3 border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors"
+          >
+            폰트 테스트
+          </Link>
         </div>
       </section>
     </main>
