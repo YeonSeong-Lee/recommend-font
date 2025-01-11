@@ -12,7 +12,7 @@ import {
   gaegu,
   pretendard
 } from '@/lib/fonts'
-
+import { FontText, FontLabel } from './FontText'
 
 const fonts = [
   { name: 'Pretendard', weight: 700, className: pretendard.className },
@@ -54,31 +54,30 @@ export function ChangingFontText() {
     return () => clearInterval(interval)
   }, [])
 
+  const animationStyle = {
+    transition: 'all 0.3s ease',
+    transform: isChanging ? 'scale(1.5)' : 'scale(1)',
+    opacity: isChanging ? 0.7 : 1,
+    color: colors[currentFontIndex]
+  }
+
+  const labelStyle = {
+    transition: 'all 0.3s ease',
+    opacity: isChanging ? 0 : 1
+  }
+
   return (
     <div className="flex flex-col items-center">
-      <span
-        className={`mt-5 ${fonts[currentFontIndex].className}`}
-        style={{
-          fontWeight: fonts[currentFontIndex].weight,
-          color: colors[currentFontIndex],
-          display: 'inline-block',
-          transition: 'all 0.3s ease',
-          transform: isChanging ? 'scale(1.5)' : 'scale(1)',
-          opacity: isChanging ? 0.7 : 1,
-          letterSpacing: '-0.02em'
-        }}
+      <FontText
+        font={fonts[currentFontIndex]}
+        style={animationStyle}
       >
         완벽한 폰트
-      </span>
-      <span 
-        className="text-xs text-gray-500 mt-1"
-        style={{
-          transition: 'all 0.3s ease',
-          opacity: isChanging ? 0 : 1
-        }}
-      >
-        {fonts[currentFontIndex].name}
-      </span>
+      </FontText>
+      <FontLabel
+        fontName={fonts[currentFontIndex].name}
+        style={labelStyle}
+      />
     </div>
   )
 } 
