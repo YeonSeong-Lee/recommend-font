@@ -14,7 +14,6 @@ glyph_names = [
 def glyph_to_vector(sample_glyph, length=100):
     glyph = font['glyf'].get(sample_glyph)
     coordinates = glyph.getCoordinates(font['glyf'])
-    # TODO: 좌표 정규화
     list = [(0, 0) for _ in range(length)]
     list[:len(coordinates[0])] = coordinates[0]
     return list
