@@ -34,7 +34,6 @@ npm run dev
 2025.01.10 ~ 2025.01.XX
 
 ## 개발자
-## 개발자
-|<img src="https://github.com/YeonSeong-Lee.png" height=80>|<img src="https://github.com/---.png" height=80>|<img src="https://github.com/---.png" height=80>|
+|<img src="https://github.com/YeonSeong-Lee.png" height=80>|<img src="https://github.com/nijesmik.png" height=80>|<img src="https://github.com/sayoonnn.png" height=80>|
 |:-:|:-:|:-:|
-|[이성연](https://github.com/YeonSeong-Lee)|[김세진](https://github.com/sejin-kim)|[윤상정](https://github.com/sangjeong-yoon)|
+|[이성연](https://github.com/YeonSeong-Lee)|[김세진](https://github.com/nijesmik)|[윤상정](https://github.com/sayoonnn)|
