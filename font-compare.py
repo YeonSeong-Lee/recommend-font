@@ -35,7 +35,7 @@ def load_font_vectors(json_path):
         return None
 
 def compare_font_with_json(json_path, target_font_path, chars):
-    """JSON 데이터와 타겟 폰트를 비교하고, 유사도 순으로 정렬하여 반환합니다."""
+    """JSON 데이터와 타겟 폰트를 비교하고, MSE 순으로 정렬하여 반환합니다."""
     loaded_vectors = load_font_vectors(json_path)
     if loaded_vectors is None:
         return None
@@ -46,64 +46,66 @@ def compare_font_with_json(json_path, target_font_path, chars):
         if target_vector is None or np.all(np.array(target_vector) == 0):
             continue
 
-        char_similarities = []
+        char_mse = []
         for font_name, vectors in loaded_vectors.items():
             if char in vectors:
                 vector = np.array(vectors[char])
                 if np.all(vector == 0):
-                    char_similarities.append(-1)
+                    char_mse.append(float('inf'))
                     continue
                 try:
-                    similarity = cosine_similarity([target_vector], [vector])[0, 0]
-                    char_similarities.append(similarity)
+                    # MSE 계산
+                    mse = np.mean((np.array(target_vector) - vector) ** 2)
+                    char_mse.append(mse)
                 except ValueError as e:
                     print(f"ValueError: {e}, char: {char}")
-                    char_similarities.append(-1)
+                    char_mse.append(float('inf'))
                     continue
             else:
-                char_similarities.append(-1)
-        target_similarities.append(char_similarities)
+                char_mse.append(float('inf'))
+        target_similarities.append(char_mse)
     
-    average_similarities = []
+    average_mse = []
     font_names = []
     for i, font_name in enumerate(loaded_vectors):
         font_names.append(font_name)
-        char_sims_for_font = [sim[i] for sim in target_similarities if len(sim) > i and sim[i] != -1]
-        if char_sims_for_font:
-            average_sim = np.mean(char_sims_for_font)
-            average_similarities.append(average_sim)
+        char_mse_for_font = [mse[i] for mse in target_similarities if len(mse) > i and mse[i] != float('inf')]
+        if char_mse_for_font:
+            avg_mse = np.mean(char_mse_for_font)
+            average_mse.append(avg_mse)
         else:
-            average_similarities.append(-1)
+            average_mse.append(float('inf'))
 
-    # 유사도와 폰트 이름을 튜플로 묶어 정렬
-    font_similarity_pairs = []
-    for i, sim in enumerate(average_similarities):
-        if sim != -1:
-            font_similarity_pairs.append((font_names[i], sim))
+    # MSE와 폰트 이름을 튜플로 묶기
+    font_mse_pairs = []
+    for i, mse in enumerate(average_mse):
+        if mse != float('inf'):
+            font_mse_pairs.append((font_names[i], mse))
 
-    # 유사도 내림차순으로 정렬
-    sorted_similarities = sorted(font_similarity_pairs, key=lambda x: x[1], reverse=True)
+    # MSE 오름차순으로 정렬 (MSE가 낮을수록 더 유사)
+    sorted_mse = sorted(font_mse_pairs, key=lambda x: x[1])
     
-    return sorted_similarities
+    return sorted_mse
 
 def recommend_top_3_fonts(json_path, target_font_path, chars):
-    sorted_similarities = compare_font_with_json(json_path, target_font_path, chars)
-    if sorted_similarities is None:
+    sorted_mse = compare_font_with_json(json_path, target_font_path, chars)
+    if sorted_mse is None:
         return
     
-    if not sorted_similarities:
+    if not sorted_mse:
         print("No similar fonts found.")
         return
 
     print(f"'{os.path.basename(target_font_path)}'와 유사한 폰트 TOP 3:")
-    for i, (font_name, similarity) in enumerate(sorted_similarities[:3]):
-        print(f"{i+1}. {font_name} (유사도: {similarity:.4f})")
+    for i, (font_name, mse) in enumerate(sorted_mse[1:10]):
+        print(f"{i+1}. {font_name} (MSE: {mse:.4f})")
 
 # 사용 예시
 json_path = "font_vectors.json"
 target_font_path = "./public/fonts/빈폴2020.ttf"
 # Range for Latin letters 'A' to 'z'
-latin_letters = [chr(i) for i in range(ord('A'), ord('z') + 1)]
+latin_letters = [chr(i) for i in range(ord('A'), ord('Z') + 1)] + [chr(i) for i in range(ord('a'), ord('z') + 1)]
+
 
 # Range for Korean Hangul consonants ㄱ (U+3131) to ㅎ (U+314E)
 # The range end value should be one more than the last code point, hence 0x314F.

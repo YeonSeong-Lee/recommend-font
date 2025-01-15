@@ -11,6 +11,7 @@ def char_to_vector(font_path, char, image_size=(64, 64)):
         draw = ImageDraw.Draw(image)
         width, height = draw.textlength(char, font=font), draw.textbbox((0, 0), char, font=font)[3]
         draw.text(((image_size[0] - width) / 2, (image_size[1] - height) / 2), char, fill=255, font=font)
+        image.save(f"data/result/debug_images/{char}.png")
         return np.array(image).flatten().tolist() # JSON 저장을 위해 list로 변환
     except OSError:
         print(f"Error: Font file not found at {font_path}")
@@ -53,12 +54,14 @@ def load_font_vectors(json_path):
 # 사용 예시 (벡터화 및 저장)
 font_folder = "public/fonts"
 output_json = "font_vectors.json"
+os.makedirs(os.path.dirname(output_json), exist_ok=True)
 # Range for Latin letters 'A' to 'z'
-latin_letters = [chr(i) for i in range(ord('A'), ord('z') + 1)]
+latin_letters = [chr(i) for i in range(ord('A'), ord('Z') + 1)] + [chr(i) for i in range(ord('a'), ord('z') + 1)]
+
 
 # Range for Korean Hangul consonants ㄱ (U+3131) to ㅎ (U+314E)
 # The range end value should be one more than the last code point, hence 0x314F.
-korean_consonants = [chr(i) for i in range(0x3131, 0x314F)]
+korean_consonants = [chr(0x3131), chr(0x3134), chr(0x3137), chr(0x3139), chr(0x3141), chr(0x3142), chr(0x3145), chr(0x3147), chr(0x3148), chr(0x314A), chr(0x314B), chr(0x314C), chr(0x314D), chr(0x314E)]
 
 # Range for Korean Hangul vowels ㅏ (U+314F) to ㅣ (U+3163)
 # Similarly, use 0x3164 as the end value since range is end-exclusive.
