@@ -71,8 +71,9 @@ export function ChangingFontText() {
       <FontText
         font={fonts[currentFontIndex]}
         style={animationStyle}
+        className="text-6xl md:text-6xl font-bold"
       >
-        완벽한 폰트
+        가장 비슷한 폰트
       </FontText>
       <FontLabel
         fontName={fonts[currentFontIndex].name}
