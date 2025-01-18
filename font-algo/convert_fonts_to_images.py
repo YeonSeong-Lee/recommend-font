@@ -66,7 +66,7 @@ for font_file in os.listdir(font_dir):
         
         for i, pangram in enumerate(pangrams):
             # Create an image with white background
-            image = Image.new('RGB', (800, 100), color='white')
+            image = Image.new('RGBA', (800, 100), color='white')
             draw = ImageDraw.Draw(image)
             
             try:
