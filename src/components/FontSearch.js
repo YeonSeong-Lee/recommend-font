@@ -2,23 +2,11 @@
 
 import { useState } from 'react'
 
-const fontSuggestions = [
-  'Pretendard',
-  'Noto Sans KR',
-  'Black Han Sans',
-  'Jua',
-  'Do Hyeon',
-  'Stylish',
-  'Poor Story',
-  'Nanum Pen Script',
-  'Gaegu',
-]
-
-export function FontSearch({ onSearch }) {
+export function FontSearch({ onSearch, fontList }) {
   const [query, setQuery] = useState('')
   const [isOpen, setIsOpen] = useState(false)
 
-  const filteredFonts = fontSuggestions.filter(font =>
+  const filteredFonts = fontList.filter(font =>
     font.toLowerCase().includes(query.toLowerCase())
   )
 
