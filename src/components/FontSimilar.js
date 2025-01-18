@@ -1,31 +1,8 @@
 'use client'
 
 import { FontText } from './FontText'
-import { 
-  notoSansKr,
-  blackHanSans,
-  jua,
-  doHyeon,
-  stylish,
-  poorStory,
-  nanumPenScript,
-  gaegu,
-  pretendard
-} from '@/lib/fonts'
 
-const fontMap = {
-  'Pretendard': pretendard,
-  'Noto Sans KR': notoSansKr,
-  'Black Han Sans': blackHanSans,
-  'Jua': jua,
-  'Do Hyeon': doHyeon,
-  'Stylish': stylish,
-  'Poor Story': poorStory,
-  'Nanum Pen Script': nanumPenScript,
-  'Gaegu': gaegu,
-}
-
-export function FontSimilar({ searchQuery }) {
+export function FontSimilar({ searchQuery, fontMap }) {
   if (!searchQuery) return null
 
   const sampleText = '폰트 테스트 문장입니다'
