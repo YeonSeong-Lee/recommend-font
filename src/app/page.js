@@ -13,7 +13,18 @@ import {
   poorStory,
   nanumPenScript,
   gaegu,
-  pretendard
+  pretendard,
+  watermelon,
+  bagelfatone,
+  banggraeMelon,
+  bmdohyeon,
+  bmeuljiro10yearslater,
+  bmeuljirooraeorae,
+  bmhannaair,
+  cafe24ClassicType,
+  cafe24Ohsquare,
+  cafe24OneprettyNight,
+  cafe24SsurroundAir,
 } from '@/lib/fonts'
 
 const fontMap = {
@@ -26,6 +37,17 @@ const fontMap = {
   'Poor Story': poorStory,
   'Nanum Pen Script': nanumPenScript,
   'Gaegu': gaegu,
+  'Watermelon': watermelon,
+  'Bagel Fatone': bagelfatone,
+  'Banggrae Melon': banggraeMelon,
+  'BMDohyeon': bmdohyeon,
+  'BMEuljiro10yearslater': bmeuljiro10yearslater,
+  'BMEuljirooraeorae': bmeuljirooraeorae,
+  'BMHannaair': bmhannaair,
+  'Cafe24 Classic Type': cafe24ClassicType,
+  'Cafe24 Ohsquare': cafe24Ohsquare,
+  'Cafe24 Onepretty Night': cafe24OneprettyNight,
+  'Cafe24 Ssurround Air': cafe24SsurroundAir,
 }
 
 export default function Home() {
