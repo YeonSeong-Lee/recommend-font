@@ -71,7 +71,7 @@ if __name__ == "__main__":
 
 		tmp = sorted(tmp, key=lambda x: x["similarity"], reverse=True)
   
-		result[target_font] = tmp[1:11]
+		result[target_font.split('.')[0]] = tmp[1:11]
 
 
 	with open('data/font_similarities.json', 'w', encoding='utf-8') as file:
