@@ -59,9 +59,7 @@ def calculate_font_similarity(font_dir1, font_dir2):
 		return 0.0
 
 if __name__ == "__main__":
-	# target_fonts = os.listdir("data/font_images")
-	target_fonts = ['빈폴2020.ttf']
-	compare_fonts = os.listdir("data/font_images")
+	target_fonts = compare_fonts = os.listdir("data/font_images")
 	result = {}
 	
 	for target_font in tqdm.tqdm(target_fonts, "Target Fonts"):
