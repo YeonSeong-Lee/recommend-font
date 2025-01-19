@@ -394,7 +394,7 @@ export const lineSeedKR = localFont({
 })
 
 export const mabinogiClassic = localFont({
-  src: '../../public/fonts/MabinogiClassic_TTF.ttf',
+  src: '../../public/fonts/Mabinogi_Classic_TTF.ttf',
   weight: '400',
   style: 'normal',
   display: 'swap',

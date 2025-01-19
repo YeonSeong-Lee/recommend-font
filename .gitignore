@@ -40,7 +40,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# virtual environment
+**/font_images
+
 venv/*
 
 */font-algo/output_imgage/*
