@@ -55,9 +55,6 @@ export function FontSimilar({ searchQuery, fontMap }) {
             </FontText>
             <div className="mt-2">
               <p className="text-sm text-gray-500">{name}</p>
-              <p className="text-xs text-gray-400">
-                유사도: {(similarity * 100).toFixed(4)}%
-              </p>
             </div>
           </div>
         ))}
