@@ -74,5 +74,5 @@ if __name__ == "__main__":
 		result[target_font.split('.')[0]] = tmp[1:11]
 
 
-	with open('data/font_similarities.json', 'w', encoding='utf-8') as file:
+	with open('../data/font_similarities.json', 'w', encoding='utf-8') as file:
 		json.dump(result, file, ensure_ascii=False, indent=4)

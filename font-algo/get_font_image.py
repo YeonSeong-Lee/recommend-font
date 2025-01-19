@@ -39,7 +39,7 @@ def vectorize_fonts_multithreading(font_folder, chars):
 			future.result()
 
 if __name__ == "__main__":
-	font_folder = "fonts"
+	font_folder = "../public/fonts"
 	# latin_letters = [chr(i) for i in range(ord('A'), ord('Z') + 1)] + [chr(i) for i in range(ord('a'), ord('z') + 1)]
 	# korean_consonants = [chr(i) for i in range(ord('ㄱ'), ord('ㅎ') + 1)] + [chr(i) for i in range(ord('ㅏ'), ord('ㅣ') + 1)]
 
