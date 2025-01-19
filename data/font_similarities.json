@@ -1,0 +1,4118 @@
+{
+    "타닥타닥체": [
+        {
+            "font_name": "마비옛체",
+            "similarity": 0.021553245931992957
+        },
+        {
+            "font_name": "영도체",
+            "similarity": 0.02106664745510731
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.02091216032723478
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.02072592192007139
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.0206443454879258
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.020597656727160595
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.020583985541745172
+        },
+        {
+            "font_name": "망고보드또박체",
+            "similarity": 0.020449321624479204
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.020431060001407025
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.020411693446651315
+        }
+    ],
+    "오이냉체": [
+        {
+            "font_name": "Y유니버스체",
+            "similarity": 0.019154589528633057
+        },
+        {
+            "font_name": "조선굴림체",
+            "similarity": 0.018677918157404744
+        },
+        {
+            "font_name": "도스고딕",
+            "similarity": 0.018270214681211018
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.018146288791638213
+        },
+        {
+            "font_name": "카페24써라운드에어",
+            "similarity": 0.018113754968742988
+        },
+        {
+            "font_name": "강원교육모두",
+            "similarity": 0.0180741021250472
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.01799511554286366
+        },
+        {
+            "font_name": "영도체",
+            "similarity": 0.017987453012027404
+        },
+        {
+            "font_name": "비트로프라이드체",
+            "similarity": 0.01796486308961848
+        },
+        {
+            "font_name": "카페24고운밤",
+            "similarity": 0.017916929647485053
+        }
+    ],
+    "전주완판본순체": [
+        {
+            "font_name": "KoPub바탕",
+            "similarity": 0.023097379850339456
+        },
+        {
+            "font_name": "서강체",
+            "similarity": 0.022232938035979335
+        },
+        {
+            "font_name": "빛의계승자체",
+            "similarity": 0.021552273063507495
+        },
+        {
+            "font_name": "던파연단된칼날",
+            "similarity": 0.02131150321053659
+        },
+        {
+            "font_name": "함렛",
+            "similarity": 0.02098359895366916
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.020883186954768256
+        },
+        {
+            "font_name": "경기천년바탕",
+            "similarity": 0.020826558713125175
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.020775474441643734
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.02067361629424133
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.020600490210941787
+        }
+    ],
+    "삼립호빵체": [
+        {
+            "font_name": "자이언츠체",
+            "similarity": 0.02415589719683662
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.02402602302914166
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.023978425281136573
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.023301590261208493
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.023284876421963936
+        },
+        {
+            "font_name": "구미첨단산업체",
+            "similarity": 0.023052377927505825
+        },
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.02289847048625791
+        },
+        {
+            "font_name": "HS산토끼체2",
+            "similarity": 0.02281250673911986
+        },
+        {
+            "font_name": "강한육군",
+            "similarity": 0.022542715739437644
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.022530033523712144
+        }
+    ],
+    "눈누기초고딕": [
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.025564822699358954
+        },
+        {
+            "font_name": "강한육군",
+            "similarity": 0.025497365018606572
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.02503368193640667
+        },
+        {
+            "font_name": "마비옛체",
+            "similarity": 0.02494578640381351
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.02485438566121945
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.024802819679072392
+        },
+        {
+            "font_name": "D2Coding",
+            "similarity": 0.024799874915079293
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.02475556614337391
+        },
+        {
+            "font_name": "넥슨메이플스토리",
+            "similarity": 0.02466262029144123
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.02458307554895791
+        }
+    ],
+    "비트로프라이드체": [
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.026703280051103034
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.02664993995338247
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.026623058158031686
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.02649668634553564
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.026345592286722782
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.026223911225762352
+        },
+        {
+            "font_name": "조선굴림체",
+            "similarity": 0.02529710145955927
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.02529633841104319
+        },
+        {
+            "font_name": "넥슨Lv",
+            "similarity": 0.025232709918779603
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.02521994364717876
+        }
+    ],
+    "기후위기-한글": [
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.020258044981902645
+        },
+        {
+            "font_name": "문경감홍사과체",
+            "similarity": 0.02005462273168009
+        },
+        {
+            "font_name": "티웨이날다체",
+            "similarity": 0.019876390714453684
+        },
+        {
+            "font_name": "리아체",
+            "similarity": 0.019814494209657318
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.01963757598751841
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.01960614591590249
+        },
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.01954261199419305
+        },
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.019352772223238834
+        },
+        {
+            "font_name": "제주돌담체",
+            "similarity": 0.01933479267611974
+        },
+        {
+            "font_name": "설립체유건욱",
+            "similarity": 0.019307707558046207
+        }
+    ],
+    "116수박화체": [
+        {
+            "font_name": "HS봄바람체2",
+            "similarity": 0.02000945883419908
+        },
+        {
+            "font_name": "티웨이날다체",
+            "similarity": 0.018985580125520724
+        },
+        {
+            "font_name": "서강체",
+            "similarity": 0.018746412239778274
+        },
+        {
+            "font_name": "카페24클래식타입",
+            "similarity": 0.018671376341271726
+        },
+        {
+            "font_name": "둥근모꼴+Fixedsys",
+            "similarity": 0.01844968833793039
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.018291552285275715
+        },
+        {
+            "font_name": "설립체유건욱",
+            "similarity": 0.0182690742182409
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.01824331401791112
+        },
+        {
+            "font_name": "던파연단된칼날",
+            "similarity": 0.018200821569181774
+        },
+        {
+            "font_name": "푸라닭젠틀고딕",
+            "similarity": 0.01816380001472687
+        }
+    ],
+    "구미첨단산업체": [
+        {
+            "font_name": "강한육군",
+            "similarity": 0.02603459139287125
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.02561601815559228
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.02492054584150406
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.024785055551086215
+        },
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.02452946480503429
+        },
+        {
+            "font_name": "세방고딕체",
+            "similarity": 0.02370622321674311
+        },
+        {
+            "font_name": "자이언츠체",
+            "similarity": 0.023421630296760414
+        },
+        {
+            "font_name": "도현체",
+            "similarity": 0.023356593328465822
+        },
+        {
+            "font_name": "눈누기초고딕",
+            "similarity": 0.023329322874254634
+        },
+        {
+            "font_name": "삼립호빵체",
+            "similarity": 0.023052377927505825
+        }
+    ],
+    "D2Coding": [
+        {
+            "font_name": "구름산스",
+            "similarity": 0.029992821116129057
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.029778253125324217
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.028808856811243115
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.028513551822849818
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.028007328820138837
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.027879215340342146
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.02759627009497277
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.02695461200630672
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.026644544320777435
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.026623868953214364
+        }
+    ],
+    "서강체": [
+        {
+            "font_name": "던파연단된칼날",
+            "similarity": 0.02528898891962595
+        },
+        {
+            "font_name": "Y콤퓨타체",
+            "similarity": 0.023047867016528112
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.022774619028978947
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.0224888781956509
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.02225660550601335
+        },
+        {
+            "font_name": "전주완판본순체",
+            "similarity": 0.022232938035979335
+        },
+        {
+            "font_name": "KoPub바탕",
+            "similarity": 0.022079954254103817
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.02204861210517605
+        },
+        {
+            "font_name": "빙그레메로나체",
+            "similarity": 0.02203305163908923
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.02198244623377949
+        }
+    ],
+    "넥슨Lv": [
+        {
+            "font_name": "구름산스",
+            "similarity": 0.028959318316412547
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.028001612233252187
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.02799546984943164
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.027795238981690153
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.02775480593118592
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.027383570432339223
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.027278625080918478
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.02693626704853374
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.026766630213581617
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.026726529684313778
+        }
+    ],
+    "온글잎콘콘체": [
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.021244347226068876
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.021133155946927246
+        },
+        {
+            "font_name": "Y최애체",
+            "similarity": 0.02086696923852672
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.02073972906012914
+        },
+        {
+            "font_name": "학교안심둥근미소",
+            "similarity": 0.02073473738006886
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.020631151674294437
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.020623816468309634
+        },
+        {
+            "font_name": "넥슨메이플스토리",
+            "similarity": 0.020617551315448478
+        },
+        {
+            "font_name": "싸락눈체",
+            "similarity": 0.020589766934777497
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.02056085338095388
+        }
+    ],
+    "도스고딕": [
+        {
+            "font_name": "카페24써라운드에어",
+            "similarity": 0.02314088943658792
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.022982673499485063
+        },
+        {
+            "font_name": "한나체Air",
+            "similarity": 0.02266404160301593
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.022622877802001135
+        },
+        {
+            "font_name": "조선굴림체",
+            "similarity": 0.02259870631221774
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.02239735637907395
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.02236128441401899
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.02222181466826068
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.022179196187578226
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.02217485011725114
+        }
+    ],
+    "도현체": [
+        {
+            "font_name": "이사만루",
+            "similarity": 0.027178329154837227
+        },
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.02535621059645531
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.025074767577473706
+        },
+        {
+            "font_name": "자이언츠체",
+            "similarity": 0.0241134926340647
+        },
+        {
+            "font_name": "구미첨단산업체",
+            "similarity": 0.023356593328465822
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.02331699341068036
+        },
+        {
+            "font_name": "강한육군",
+            "similarity": 0.02323665151626509
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.023142790231470232
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.022990114039085657
+        },
+        {
+            "font_name": "학교안심 알림장",
+            "similarity": 0.022745910303936728
+        }
+    ],
+    "Y콤퓨타체": [
+        {
+            "font_name": "서강체",
+            "similarity": 0.023047867016528112
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.02145937769502455
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.021247332310638883
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.021229383437476913
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.021216065079658723
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.02121026931794213
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.021162267062723193
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.021126377841667845
+        },
+        {
+            "font_name": "영도체",
+            "similarity": 0.021004761282586066
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.020907316597867025
+        }
+    ],
+    "더잠실체": [
+        {
+            "font_name": "본고딕",
+            "similarity": 0.02822561555513273
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.026532910905926407
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.026504998870292253
+        },
+        {
+            "font_name": "D2Coding",
+            "similarity": 0.026115045655458958
+        },
+        {
+            "font_name": "넥슨메이플스토리",
+            "similarity": 0.02582325805041336
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.02581431125663793
+        },
+        {
+            "font_name": "세방고딕체",
+            "similarity": 0.02570761036867578
+        },
+        {
+            "font_name": "구미첨단산업체",
+            "similarity": 0.02561601815559228
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.025606253021952834
+        },
+        {
+            "font_name": "눈누기초고딕",
+            "similarity": 0.025564822699358954
+        }
+    ],
+    "망고보드또박체": [
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.02627517488033399
+        },
+        {
+            "font_name": "카페24써라운드에어",
+            "similarity": 0.025477310624469764
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.025128836580693353
+        },
+        {
+            "font_name": "싸락눈체",
+            "similarity": 0.02491926377307977
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.024120589031090305
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.023842842666342585
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.023730603861032835
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.02363792677244947
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.023557531200065873
+        },
+        {
+            "font_name": "학교안심둥근미소",
+            "similarity": 0.02346406118507279
+        }
+    ],
+    "원스토어모바일고딕제목체": [
+        {
+            "font_name": "이사만루",
+            "similarity": 0.03051805347920138
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.028541693520543553
+        },
+        {
+            "font_name": "학교안심 알림장",
+            "similarity": 0.026845371695742627
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.025472244396408713
+        },
+        {
+            "font_name": "도현체",
+            "similarity": 0.02535621059645531
+        },
+        {
+            "font_name": "G마켓산스",
+            "similarity": 0.02529329293509577
+        },
+        {
+            "font_name": "머니그라피-픽셀",
+            "similarity": 0.02521539838474244
+        },
+        {
+            "font_name": "자이언츠체",
+            "similarity": 0.024710344240358974
+        },
+        {
+            "font_name": "구미첨단산업체",
+            "similarity": 0.02452946480503429
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.0240347733467089
+        }
+    ],
+    "한컴말랑말랑": [
+        {
+            "font_name": "본고딕",
+            "similarity": 0.02717366321287409
+        },
+        {
+            "font_name": "넥슨메이플스토리",
+            "similarity": 0.026395370170733005
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.02527756548653973
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.024902265110475292
+        },
+        {
+            "font_name": "눈누기초고딕",
+            "similarity": 0.024802819679072392
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.024750629305268945
+        },
+        {
+            "font_name": "Y최애체",
+            "similarity": 0.024599729833178267
+        },
+        {
+            "font_name": "강한육군",
+            "similarity": 0.02457289825172335
+        },
+        {
+            "font_name": "마비옛체",
+            "similarity": 0.02455960678397814
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.024052453253940242
+        }
+    ],
+    "강한육군": [
+        {
+            "font_name": "구미첨단산업체",
+            "similarity": 0.02603459139287125
+        },
+        {
+            "font_name": "세방고딕체",
+            "similarity": 0.025824403699415733
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.025501190338705466
+        },
+        {
+            "font_name": "눈누기초고딕",
+            "similarity": 0.025497365018606572
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.025407853070274777
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.025364896559152278
+        },
+        {
+            "font_name": "넥슨메이플스토리",
+            "similarity": 0.025211974336491607
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.02457289825172335
+        },
+        {
+            "font_name": "마비옛체",
+            "similarity": 0.02424456775129325
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.024002186920492823
+        }
+    ],
+    "검은고딕": [
+        {
+            "font_name": "리아체",
+            "similarity": 0.02382677660806533
+        },
+        {
+            "font_name": "태나다체",
+            "similarity": 0.023790328994284436
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.023522897000973302
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.022786686683497117
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.02275635454423733
+        },
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.02227466539436962
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.02208389872922435
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.021357455668588484
+        },
+        {
+            "font_name": "학교안심퍼즐",
+            "similarity": 0.021248107693172414
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.020276033908990694
+        }
+    ],
+    "영도체": [
+        {
+            "font_name": "마비옛체",
+            "similarity": 0.02323400968313263
+        },
+        {
+            "font_name": "Y최애체",
+            "similarity": 0.023193826701953486
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.02302772750345
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.022923111998067115
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.02279192409215388
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.02275867010822454
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.02270109599578766
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.022627427089293706
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.022386195097151756
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.022349540770020652
+        }
+    ],
+    "마초체": [
+        {
+            "font_name": "설립체유건욱",
+            "similarity": 0.02201979853729078
+        },
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.0206750772316678
+        },
+        {
+            "font_name": "읏맨-궁서체",
+            "similarity": 0.020528991671243956
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.02000026811890184
+        },
+        {
+            "font_name": "학교안심퍼즐",
+            "similarity": 0.019870391694274018
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.019707714650404988
+        },
+        {
+            "font_name": "롯데리아딱붙어체",
+            "similarity": 0.01960104324420531
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.019571120888467082
+        },
+        {
+            "font_name": "티웨이날다체",
+            "similarity": 0.019569549690605124
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.019541804372445192
+        }
+    ],
+    "던파연단된칼날": [
+        {
+            "font_name": "서강체",
+            "similarity": 0.02528898891962595
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.025184396778155448
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.0240240497226419
+        },
+        {
+            "font_name": "함렛",
+            "similarity": 0.023896074080962854
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.023412886231407394
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.022819313279685043
+        },
+        {
+            "font_name": "자이언츠체",
+            "similarity": 0.022622127939086335
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.02256397239643124
+        },
+        {
+            "font_name": "삼립호빵체",
+            "similarity": 0.022395516003596388
+        },
+        {
+            "font_name": "넥슨메이플스토리",
+            "similarity": 0.022262053485523903
+        }
+    ],
+    "이랜드나이스체": [
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.0249150694696555
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.024421139708810352
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.023524668828479207
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.02311712958616074
+        },
+        {
+            "font_name": "푸라닭젠틀고딕",
+            "similarity": 0.022837377984627073
+        },
+        {
+            "font_name": "검은고딕",
+            "similarity": 0.02275635454423733
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.02266780338918334
+        },
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.022239302083144643
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.022002476129650044
+        },
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.021808686046157034
+        }
+    ],
+    "머니그라피-픽셀": [
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.02521539838474244
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.024748252688808068
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.024004419853612395
+        },
+        {
+            "font_name": "G마켓산스",
+            "similarity": 0.02383514031492943
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.023655152228524438
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.02348242403776962
+        },
+        {
+            "font_name": "강한육군",
+            "similarity": 0.023386181234035703
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.023135543376685237
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.023016744521728416
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.022913169471369597
+        }
+    ],
+    "삼국지3글꼴": [
+        {
+            "font_name": "서강체",
+            "similarity": 0.020486329520895456
+        },
+        {
+            "font_name": "Y콤퓨타체",
+            "similarity": 0.020314523400838867
+        },
+        {
+            "font_name": "영도체",
+            "similarity": 0.019781169952306114
+        },
+        {
+            "font_name": "전주완판본순체",
+            "similarity": 0.019743617515522668
+        },
+        {
+            "font_name": "던파연단된칼날",
+            "similarity": 0.01972776760002131
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.019709499935342913
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.01965490280551179
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.019604293118931995
+        },
+        {
+            "font_name": "함렛",
+            "similarity": 0.019521615467095528
+        },
+        {
+            "font_name": "둥근모꼴+Fixedsys",
+            "similarity": 0.019371403952968748
+        }
+    ],
+    "둥근모꼴+Fixedsys": [
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.020586838203544722
+        },
+        {
+            "font_name": "서강체",
+            "similarity": 0.020422246851827752
+        },
+        {
+            "font_name": "Y콤퓨타체",
+            "similarity": 0.020417792132208585
+        },
+        {
+            "font_name": "머니그라피-픽셀",
+            "similarity": 0.020398611294362802
+        },
+        {
+            "font_name": "넥슨메이플스토리",
+            "similarity": 0.020086242708845733
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.02008523078592109
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.02002852134977447
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.019944709355435027
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.019939363276981332
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.01988055556332901
+        }
+    ],
+    "세방고딕체": [
+        {
+            "font_name": "싸락눈체",
+            "similarity": 0.026226243429212537
+        },
+        {
+            "font_name": "강한육군",
+            "similarity": 0.025824403699415733
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.02570761036867578
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.025303856265371034
+        },
+        {
+            "font_name": "넥슨메이플스토리",
+            "similarity": 0.025281987273728122
+        },
+        {
+            "font_name": "G마켓산스",
+            "similarity": 0.025166699941809072
+        },
+        {
+            "font_name": "페이퍼로지",
+            "similarity": 0.024400163768731133
+        },
+        {
+            "font_name": "눈누기초고딕",
+            "similarity": 0.024255116375986572
+        },
+        {
+            "font_name": "학교안심 알림장",
+            "similarity": 0.02419770128418608
+        },
+        {
+            "font_name": "마비옛체",
+            "similarity": 0.024185759703560544
+        }
+    ],
+    "엘리스디지털코딩체": [
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.029087160493321784
+        },
+        {
+            "font_name": "Y최애체",
+            "similarity": 0.02860205347921198
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.028296557620779875
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.0282288279180745
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.027901162624504778
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.02730312924563016
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.0273010226836958
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.027261949917386584
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.027153030832202812
+        },
+        {
+            "font_name": "D2Coding",
+            "similarity": 0.026644544320777435
+        }
+    ],
+    "G마켓산스": [
+        {
+            "font_name": "페이퍼로지",
+            "similarity": 0.027952167752849883
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.02605532670746568
+        },
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.02529329293509577
+        },
+        {
+            "font_name": "세방고딕체",
+            "similarity": 0.025166699941809072
+        },
+        {
+            "font_name": "학교안심 알림장",
+            "similarity": 0.024855406543325017
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.024799354138799606
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.02436259697148869
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.024195347940343576
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.024129482519308743
+        },
+        {
+            "font_name": "강한육군",
+            "similarity": 0.02391714802082224
+        }
+    ],
+    "을지로오래오래체": [
+        {
+            "font_name": "영도체",
+            "similarity": 0.01788311468675516
+        },
+        {
+            "font_name": "노회찬체",
+            "similarity": 0.017857914928715603
+        },
+        {
+            "font_name": "도스고딕",
+            "similarity": 0.017410333362157113
+        },
+        {
+            "font_name": "을지로10년후체",
+            "similarity": 0.017232152228695327
+        },
+        {
+            "font_name": "마비옛체",
+            "similarity": 0.01720443797162065
+        },
+        {
+            "font_name": "Y최애체",
+            "similarity": 0.0172015287040716
+        },
+        {
+            "font_name": "Y콤퓨타체",
+            "similarity": 0.0170582643663234
+        },
+        {
+            "font_name": "타닥타닥체",
+            "similarity": 0.01705409159592314
+        },
+        {
+            "font_name": "HS봄바람체2",
+            "similarity": 0.017004911651411814
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.01700151731031126
+        }
+    ],
+    "티머니둥근바람": [
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.03183338852180456
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.03156866580965825
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.031054493215420004
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.030854803830849185
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.03077168221754617
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.029135532919922415
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.029087160493321784
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.028903807398132315
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.028844648581804272
+        },
+        {
+            "font_name": "Y최애체",
+            "similarity": 0.028784252379109653
+        }
+    ],
+    "싸락눈체": [
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.02635764964108123
+        },
+        {
+            "font_name": "세방고딕체",
+            "similarity": 0.026226243429212537
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.0259192746916935
+        },
+        {
+            "font_name": "망고보드또박체",
+            "similarity": 0.02491926377307977
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.024869536745185772
+        },
+        {
+            "font_name": "페이퍼로지",
+            "similarity": 0.024573142651932667
+        },
+        {
+            "font_name": "넥슨Lv",
+            "similarity": 0.02436717454710807
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.024297112287831154
+        },
+        {
+            "font_name": "빙그레메로나체",
+            "similarity": 0.024287574144002476
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.024027245394163517
+        }
+    ],
+    "푸라닭젠틀고딕": [
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.023941348969409075
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.022837377984627073
+        },
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.022335739130038147
+        },
+        {
+            "font_name": "티웨이날다체",
+            "similarity": 0.022150943499562543
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.022039995364900304
+        },
+        {
+            "font_name": "설립체유건욱",
+            "similarity": 0.021877909667195217
+        },
+        {
+            "font_name": "자이언츠체",
+            "similarity": 0.02171955158054806
+        },
+        {
+            "font_name": "던파연단된칼날",
+            "similarity": 0.02167308483079636
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.021553625468793684
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.021365865353296296
+        }
+    ],
+    "설립체유건욱": [
+        {
+            "font_name": "마초체",
+            "similarity": 0.02201979853729078
+        },
+        {
+            "font_name": "푸라닭젠틀고딕",
+            "similarity": 0.021877909667195217
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.021580579107694283
+        },
+        {
+            "font_name": "티웨이날다체",
+            "similarity": 0.021132798667830105
+        },
+        {
+            "font_name": "롯데리아딱붙어체",
+            "similarity": 0.020638947752516765
+        },
+        {
+            "font_name": "카페24클래식타입",
+            "similarity": 0.020504227561136935
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.020438587073155403
+        },
+        {
+            "font_name": "읏맨-궁서체",
+            "similarity": 0.020183749795054218
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.01992236795594882
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.019759496035528366
+        }
+    ],
+    "LINESeed": [
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.032000862091712136
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.03099037930681827
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.030854803830849185
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.030421729704661022
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.030081626679006806
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.03004020304321545
+        },
+        {
+            "font_name": "D2Coding",
+            "similarity": 0.028513551822849818
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.028143155503485905
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.028040522979346956
+        },
+        {
+            "font_name": "넥슨Lv",
+            "similarity": 0.02799546984943164
+        }
+    ],
+    "Y유니버스체": [
+        {
+            "font_name": "비트로프라이드체",
+            "similarity": 0.023624481450536586
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.02299136735530616
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.021920665928921192
+        },
+        {
+            "font_name": "경기천년바탕",
+            "similarity": 0.02174608353719831
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.021628145971829747
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.021560144688020633
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.02139665274942228
+        },
+        {
+            "font_name": "카페24고운밤",
+            "similarity": 0.021342734688597497
+        },
+        {
+            "font_name": "조선굴림체",
+            "similarity": 0.021298843467220302
+        },
+        {
+            "font_name": "강원교육모두",
+            "similarity": 0.021195272989207172
+        }
+    ],
+    "HS산토끼체": [
+        {
+            "font_name": "삼립호빵체",
+            "similarity": 0.02121838767614959
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.020450552428417902
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.02025817272236829
+        },
+        {
+            "font_name": "제주돌담체",
+            "similarity": 0.020253713725661874
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.02023684196107836
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.020137966570296848
+        },
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.020114064330946847
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.02003055056937158
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.019970750489444057
+        },
+        {
+            "font_name": "자이언츠체",
+            "similarity": 0.01996705430294089
+        }
+    ],
+    "숙명눈꽃체": [
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.02957594824955883
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.029135532919922415
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.028973266950372816
+        },
+        {
+            "font_name": "D2Coding",
+            "similarity": 0.028808856811243115
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.028332922241795084
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.028040522979346956
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.02772623248798512
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.027719583808679026
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.02762350959639564
+        },
+        {
+            "font_name": "빙그레메로나체",
+            "similarity": 0.027568589448055625
+        }
+    ],
+    "창원단감아삭체": [
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.02905042659197102
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.02900170302346894
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.028296557620779875
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.02818108469035388
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.02817608937508954
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.02795154888954386
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.027549170294068195
+        },
+        {
+            "font_name": "페이퍼로지",
+            "similarity": 0.02753800385772547
+        },
+        {
+            "font_name": "넥슨Lv",
+            "similarity": 0.027383570432339223
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.027282307240374337
+        }
+    ],
+    "바른공군체": [
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.028541693520543553
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.028036851853366053
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.025606253021952834
+        },
+        {
+            "font_name": "자이언츠체",
+            "similarity": 0.02553195533983849
+        },
+        {
+            "font_name": "강한육군",
+            "similarity": 0.025407853070274777
+        },
+        {
+            "font_name": "도현체",
+            "similarity": 0.025074767577473706
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.02485719929246682
+        },
+        {
+            "font_name": "구미첨단산업체",
+            "similarity": 0.024785055551086215
+        },
+        {
+            "font_name": "머니그라피-픽셀",
+            "similarity": 0.024748252688808068
+        },
+        {
+            "font_name": "G마켓산스",
+            "similarity": 0.024195347940343576
+        }
+    ],
+    "비트로인스파이어체": [
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.02058695860343136
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.020093581793664692
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.019940735328249463
+        },
+        {
+            "font_name": "태나다체",
+            "similarity": 0.019872631745719332
+        },
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.019681121425756266
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.01967690910950687
+        },
+        {
+            "font_name": "검은고딕",
+            "similarity": 0.01954583013557615
+        },
+        {
+            "font_name": "도현체",
+            "similarity": 0.01937500233083814
+        },
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.0190246746669085
+        },
+        {
+            "font_name": "학교안심 알림장",
+            "similarity": 0.018948861235354362
+        }
+    ],
+    "갈무리11": [
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.023121233009678967
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.022493370983792484
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.022377170769415113
+        },
+        {
+            "font_name": "마비옛체",
+            "similarity": 0.022188792569205786
+        },
+        {
+            "font_name": "세방고딕체",
+            "similarity": 0.022068524523418644
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.022051268201201825
+        },
+        {
+            "font_name": "페이퍼로지",
+            "similarity": 0.021879463515447523
+        },
+        {
+            "font_name": "넥슨Lv",
+            "similarity": 0.02181453652364329
+        },
+        {
+            "font_name": "Y최애체",
+            "similarity": 0.02180707064451045
+        },
+        {
+            "font_name": "망고보드또박체",
+            "similarity": 0.02173370904292448
+        }
+    ],
+    "함렛": [
+        {
+            "font_name": "본고딕",
+            "similarity": 0.028808755683714046
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.024258529479291132
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.023998507346792087
+        },
+        {
+            "font_name": "D2Coding",
+            "similarity": 0.02394101809923465
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.023940172101013794
+        },
+        {
+            "font_name": "던파연단된칼날",
+            "similarity": 0.023896074080962854
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.02378857937581442
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.023636939564719035
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.023428978205421176
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.02330894998390152
+        }
+    ],
+    "학교안심퍼즐": [
+        {
+            "font_name": "리아체",
+            "similarity": 0.024187581337962286
+        },
+        {
+            "font_name": "롯데리아촵땡겨체",
+            "similarity": 0.023179938971618515
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.0224305075770633
+        },
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.02196452828894721
+        },
+        {
+            "font_name": "문경감홍사과체",
+            "similarity": 0.021430302885047325
+        },
+        {
+            "font_name": "검은고딕",
+            "similarity": 0.021248107693172414
+        },
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.021245847777996867
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.02109446954549576
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.020614064895636226
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.01999861580274894
+        }
+    ],
+    "한나체Air": [
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.023564725475921634
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.023436740942863802
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.023368134085807145
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.023353861491097663
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.02329859880269766
+        },
+        {
+            "font_name": "마비옛체",
+            "similarity": 0.023148064348908277
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.022900327522713034
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.022821721920962764
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.022809925355932337
+        },
+        {
+            "font_name": "카페24써라운드에어",
+            "similarity": 0.02273393507168157
+        }
+    ],
+    "리아체": [
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.026840539863047234
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.024819472187569264
+        },
+        {
+            "font_name": "문경감홍사과체",
+            "similarity": 0.024427446796629514
+        },
+        {
+            "font_name": "학교안심퍼즐",
+            "similarity": 0.024187581337962286
+        },
+        {
+            "font_name": "롯데리아촵땡겨체",
+            "similarity": 0.02398910756960474
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.023962782496635977
+        },
+        {
+            "font_name": "검은고딕",
+            "similarity": 0.02382677660806533
+        },
+        {
+            "font_name": "태나다체",
+            "similarity": 0.02303923355747355
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.02210204386631087
+        },
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.02204473447219239
+        }
+    ],
+    "평창체": [
+        {
+            "font_name": "비트로프라이드체",
+            "similarity": 0.02339872335817125
+        },
+        {
+            "font_name": "카페24써라운드에어",
+            "similarity": 0.022465730143013497
+        },
+        {
+            "font_name": "페이퍼로지",
+            "similarity": 0.02235026026736186
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.022272363165447305
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.022070905143525325
+        },
+        {
+            "font_name": "조선굴림체",
+            "similarity": 0.02202665513075486
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.021415938348671528
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.021413961773270773
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.021286717726978484
+        },
+        {
+            "font_name": "넥슨Lv",
+            "similarity": 0.021253734304597097
+        }
+    ],
+    "마비옛체": [
+        {
+            "font_name": "넥슨메이플스토리",
+            "similarity": 0.025374961456968294
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.02517460980016951
+        },
+        {
+            "font_name": "눈누기초고딕",
+            "similarity": 0.02494578640381351
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.024857415996457403
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.024826962639900873
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.02472771426930771
+        },
+        {
+            "font_name": "Y최애체",
+            "similarity": 0.024707023906520856
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.024662841463811848
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.02455960678397814
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.024521693609232207
+        }
+    ],
+    "베이글팻": [
+        {
+            "font_name": "롯데리아촵땡겨체",
+            "similarity": 0.024485107998043848
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.0229116005844882
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.02263149582041446
+        },
+        {
+            "font_name": "읏맨-궁서체",
+            "similarity": 0.022066084481292946
+        },
+        {
+            "font_name": "리아체",
+            "similarity": 0.02204473447219239
+        },
+        {
+            "font_name": "학교안심퍼즐",
+            "similarity": 0.02196452828894721
+        },
+        {
+            "font_name": "제주돌담체",
+            "similarity": 0.02189740263660603
+        },
+        {
+            "font_name": "문경감홍사과체",
+            "similarity": 0.021873534421247138
+        },
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.02104157370304317
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.020904244162825436
+        }
+    ],
+    "나눔스퀘어라운드": [
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.0339627027715887
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.03156866580965825
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.031179090543218806
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.030081626679006806
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.028534363422010156
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.028469771955962404
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.028324911173847302
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.028149426908018433
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.027719583808679026
+        },
+        {
+            "font_name": "D2Coding",
+            "similarity": 0.02759627009497277
+        }
+    ],
+    "비트로코어체": [
+        {
+            "font_name": "리아체",
+            "similarity": 0.026840539863047234
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.024528790463472293
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.02449655705881578
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.023946354959640044
+        },
+        {
+            "font_name": "문경감홍사과체",
+            "similarity": 0.02305969531898947
+        },
+        {
+            "font_name": "태나다체",
+            "similarity": 0.02295771964546619
+        },
+        {
+            "font_name": "읏맨-엉뚱체",
+            "similarity": 0.02276370497937432
+        },
+        {
+            "font_name": "검은고딕",
+            "similarity": 0.02227466539436962
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.022021313817431148
+        },
+        {
+            "font_name": "롯데리아촵땡겨체",
+            "similarity": 0.022000416949166216
+        }
+    ],
+    "학교안심 알림장": [
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.026845371695742627
+        },
+        {
+            "font_name": "G마켓산스",
+            "similarity": 0.024855406543325017
+        },
+        {
+            "font_name": "세방고딕체",
+            "similarity": 0.02419770128418608
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.024114749535450626
+        },
+        {
+            "font_name": "강한육군",
+            "similarity": 0.02390845376052301
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.023803897294262362
+        },
+        {
+            "font_name": "넥슨메이플스토리",
+            "similarity": 0.02279606742273039
+        },
+        {
+            "font_name": "도현체",
+            "similarity": 0.022745910303936728
+        },
+        {
+            "font_name": "구미첨단산업체",
+            "similarity": 0.02268382695555169
+        },
+        {
+            "font_name": "머니그라피-픽셀",
+            "similarity": 0.02248010676485912
+        }
+    ],
+    "여기어때잘난체2": [
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.025892493263272247
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.0252736384027546
+        },
+        {
+            "font_name": "리아체",
+            "similarity": 0.024819472187569264
+        },
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.02449655705881578
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.024421139708810352
+        },
+        {
+            "font_name": "태나다체",
+            "similarity": 0.02424365538328117
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.024048092193730664
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.024028354126465607
+        },
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.023627441083308793
+        },
+        {
+            "font_name": "롯데리아촵땡겨체",
+            "similarity": 0.02345143917691666
+        }
+    ],
+    "제주돌담체": [
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.022101519761891
+        },
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.02189740263660603
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.021448590938353718
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.021161157350095102
+        },
+        {
+            "font_name": "도현체",
+            "similarity": 0.021131412929713853
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.02105312874001975
+        },
+        {
+            "font_name": "삼립호빵체",
+            "similarity": 0.020725321887490593
+        },
+        {
+            "font_name": "자이언츠체",
+            "similarity": 0.020663350435399068
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.020640797301455432
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.020630485304695415
+        }
+    ],
+    "카페24고운밤": [
+        {
+            "font_name": "강원교육모두",
+            "similarity": 0.024824832018241767
+        },
+        {
+            "font_name": "경기천년바탕",
+            "similarity": 0.02381439387750583
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.022506537795166516
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.022354448154766914
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.02202031009132945
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.021538146355248172
+        },
+        {
+            "font_name": "Y유니버스체",
+            "similarity": 0.021342734688597497
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.021273732646835384
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.021234295850410402
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.021189994108630063
+        }
+    ],
+    "나눔스퀘어": [
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.0339627027715887
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.032000862091712136
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.03183338852180456
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.031295073849718885
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.031143986602113084
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.030669944795506828
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.029404520391363775
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.029019153471331955
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.028332922241795084
+        },
+        {
+            "font_name": "빙그레메로나체",
+            "similarity": 0.02827024503823587
+        }
+    ],
+    "학교안심둥근미소": [
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.025659361597914616
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.024943296457141332
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.024473944382633023
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.02404185318536408
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.02402245874038048
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.023898667460212852
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.0237610274579796
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.023747451931251013
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.02371364159725042
+        },
+        {
+            "font_name": "페이퍼로지",
+            "similarity": 0.023580425245756757
+        }
+    ],
+    "WantedSans": [
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.08575078725582888
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.031407231149238254
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.030669944795506828
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.03004020304321545
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.029799655978095873
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.02930954980821145
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.02905042659197102
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.028780799771029958
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.028410723424605117
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.028149426908018433
+        }
+    ],
+    "구름산스": [
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.031407231149238254
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.03125016301303075
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.031143986602113084
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.03099037930681827
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.03077168221754617
+        },
+        {
+            "font_name": "D2Coding",
+            "similarity": 0.029992821116129057
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.029528568945551115
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.028973266950372816
+        },
+        {
+            "font_name": "넥슨Lv",
+            "similarity": 0.028959318316412547
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.028469771955962404
+        }
+    ],
+    "태나다체": [
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.02424365538328117
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.02394091017408759
+        },
+        {
+            "font_name": "검은고딕",
+            "similarity": 0.023790328994284436
+        },
+        {
+            "font_name": "리아체",
+            "similarity": 0.02303923355747355
+        },
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.02295771964546619
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.02278475287216652
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.021800940043942056
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.021609250145187744
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.02113171059791743
+        },
+        {
+            "font_name": "도현체",
+            "similarity": 0.020586570135290548
+        }
+    ],
+    "IntelOneMono": [
+        {
+            "font_name": "삼립호빵체outline",
+            "similarity": 0.013491333597827176
+        },
+        {
+            "font_name": "카페24고운밤",
+            "similarity": 0.013324262068636019
+        },
+        {
+            "font_name": "오이냉체",
+            "similarity": 0.013322168528669775
+        },
+        {
+            "font_name": "Y유니버스체",
+            "similarity": 0.013167442457611294
+        },
+        {
+            "font_name": "을지로오래오래체",
+            "similarity": 0.01306165690980382
+        },
+        {
+            "font_name": "을지로10년후체",
+            "similarity": 0.01305572385210523
+        },
+        {
+            "font_name": "빛의계승자체",
+            "similarity": 0.013053733173608426
+        },
+        {
+            "font_name": "영도체",
+            "similarity": 0.012980714538886324
+        },
+        {
+            "font_name": "Y콤퓨타체",
+            "similarity": 0.012924612195990162
+        },
+        {
+            "font_name": "노회찬체",
+            "similarity": 0.012920588504275918
+        }
+    ],
+    "강원교육튼튼": [
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.025892493263272247
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.025052623642829862
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.0249150694696555
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.024635909909182546
+        },
+        {
+            "font_name": "리아체",
+            "similarity": 0.023962782496635977
+        },
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.023946354959640044
+        },
+        {
+            "font_name": "태나다체",
+            "similarity": 0.02394091017408759
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.02362042602489841
+        },
+        {
+            "font_name": "검은고딕",
+            "similarity": 0.023522897000973302
+        },
+        {
+            "font_name": "도현체",
+            "similarity": 0.022990114039085657
+        }
+    ],
+    "티웨이날다체": [
+        {
+            "font_name": "카페24클래식타입",
+            "similarity": 0.026089620771925386
+        },
+        {
+            "font_name": "롯데리아딱붙어체",
+            "similarity": 0.02428694540974552
+        },
+        {
+            "font_name": "읏맨-궁서체",
+            "similarity": 0.02326877756147448
+        },
+        {
+            "font_name": "HS봄바람체2",
+            "similarity": 0.022379426884958187
+        },
+        {
+            "font_name": "푸라닭젠틀고딕",
+            "similarity": 0.022150943499562543
+        },
+        {
+            "font_name": "설립체유건욱",
+            "similarity": 0.021132798667830105
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.02067443627367141
+        },
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.020590746140474788
+        },
+        {
+            "font_name": "서강체",
+            "similarity": 0.020052619989552954
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.019967325895524114
+        }
+    ],
+    "강원교육모두": [
+        {
+            "font_name": "카페24고운밤",
+            "similarity": 0.024824832018241767
+        },
+        {
+            "font_name": "경기천년바탕",
+            "similarity": 0.02368168322656227
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.02337285871638254
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.023078876565512392
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.0230329529826493
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.02232801012490021
+        },
+        {
+            "font_name": "비트로프라이드체",
+            "similarity": 0.02204210789407333
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.02172850668948123
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.021676518757585746
+        },
+        {
+            "font_name": "한나체Air",
+            "similarity": 0.02146763475010292
+        }
+    ],
+    "노회찬체": [
+        {
+            "font_name": "영도체",
+            "similarity": 0.020376614009852346
+        },
+        {
+            "font_name": "Y최애체",
+            "similarity": 0.019875193648347344
+        },
+        {
+            "font_name": "타닥타닥체",
+            "similarity": 0.019804426750164673
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.019701416604245903
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.01963153450726188
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.01959954561952352
+        },
+        {
+            "font_name": "마비옛체",
+            "similarity": 0.019503858647738414
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.01930347414216746
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.019252227633315553
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.019198289307548966
+        }
+    ],
+    "나눔고딕": [
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.031179090543218806
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.029404520391363775
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.028903807398132315
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.028109038800063296
+        },
+        {
+            "font_name": "D2Coding",
+            "similarity": 0.027879215340342146
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.0278550289392067
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.02771753958417473
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.027640077038275358
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.02762350959639564
+        },
+        {
+            "font_name": "넥슨Lv",
+            "similarity": 0.02693626704853374
+        }
+    ],
+    "HS봄바람체2": [
+        {
+            "font_name": "티웨이날다체",
+            "similarity": 0.022379426884958187
+        },
+        {
+            "font_name": "카페24클래식타입",
+            "similarity": 0.02117788050171679
+        },
+        {
+            "font_name": "서강체",
+            "similarity": 0.020658833315519706
+        },
+        {
+            "font_name": "푸라닭젠틀고딕",
+            "similarity": 0.020352995385534922
+        },
+        {
+            "font_name": "읏맨-궁서체",
+            "similarity": 0.02025872171246834
+        },
+        {
+            "font_name": "116수박화체",
+            "similarity": 0.02000945883419908
+        },
+        {
+            "font_name": "던파연단된칼날",
+            "similarity": 0.01967690925846618
+        },
+        {
+            "font_name": "롯데리아딱붙어체",
+            "similarity": 0.01963136833114958
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.01957476650002424
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.019524940991343963
+        }
+    ],
+    "프리텐다드": [
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.08575078725582888
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.031295073849718885
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.03125016301303075
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.030421729704661022
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.02952755187194333
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.02950574354500644
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.02900170302346894
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.028844648581804272
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.028534363422010156
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.027858202926028502
+        }
+    ],
+    "오르빗": [
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.02952755187194333
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.02930954980821145
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.029019153471331955
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.028324911173847302
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.02737699463298209
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.02691449400485344
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.026536662558902167
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.02638319940678897
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.026300201705895025
+        },
+        {
+            "font_name": "빙그레메로나체",
+            "similarity": 0.02618206100113449
+        }
+    ],
+    "카페24클래식타입": [
+        {
+            "font_name": "티웨이날다체",
+            "similarity": 0.026089620771925386
+        },
+        {
+            "font_name": "롯데리아딱붙어체",
+            "similarity": 0.023240993101829168
+        },
+        {
+            "font_name": "읏맨-궁서체",
+            "similarity": 0.021674877375129242
+        },
+        {
+            "font_name": "HS봄바람체2",
+            "similarity": 0.02117788050171679
+        },
+        {
+            "font_name": "설립체유건욱",
+            "similarity": 0.020504227561136935
+        },
+        {
+            "font_name": "푸라닭젠틀고딕",
+            "similarity": 0.020467302404418932
+        },
+        {
+            "font_name": "마초체",
+            "similarity": 0.01915985802261321
+        },
+        {
+            "font_name": "서강체",
+            "similarity": 0.018887571265512472
+        },
+        {
+            "font_name": "둥근모꼴+Fixedsys",
+            "similarity": 0.0188710184709322
+        },
+        {
+            "font_name": "116수박화체",
+            "similarity": 0.018671376341271726
+        }
+    ],
+    "KoPub바탕": [
+        {
+            "font_name": "경기천년바탕",
+            "similarity": 0.02360215750837613
+        },
+        {
+            "font_name": "빛의계승자체",
+            "similarity": 0.023388480253465262
+        },
+        {
+            "font_name": "전주완판본순체",
+            "similarity": 0.023097379850339456
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.022442120541823037
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.022235046643697225
+        },
+        {
+            "font_name": "빙그레메로나체",
+            "similarity": 0.022118730400806023
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.022110829491703617
+        },
+        {
+            "font_name": "서강체",
+            "similarity": 0.022079954254103817
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.02202639208341347
+        },
+        {
+            "font_name": "넥슨메이플스토리",
+            "similarity": 0.02187033050532847
+        }
+    ],
+    "MoveSans": [
+        {
+            "font_name": "오이냉체",
+            "similarity": 0.015177446989679015
+        },
+        {
+            "font_name": "학교안심퍼즐",
+            "similarity": 0.01472723190031378
+        },
+        {
+            "font_name": "을지로10년후체",
+            "similarity": 0.014725511670365005
+        },
+        {
+            "font_name": "116수박화체",
+            "similarity": 0.014651351425239111
+        },
+        {
+            "font_name": "읏맨-엉뚱체",
+            "similarity": 0.01456936718469487
+        },
+        {
+            "font_name": "KoPub바탕",
+            "similarity": 0.014466494797973715
+        },
+        {
+            "font_name": "HS산토끼체",
+            "similarity": 0.014462228370523184
+        },
+        {
+            "font_name": "둥근모꼴+Fixedsys",
+            "similarity": 0.014442687729284805
+        },
+        {
+            "font_name": "갈무리11",
+            "similarity": 0.014369643954621555
+        },
+        {
+            "font_name": "온글잎콘콘체",
+            "similarity": 0.014259891176235781
+        }
+    ],
+    "자이언츠체": [
+        {
+            "font_name": "이사만루",
+            "similarity": 0.027660734176816776
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.02553195533983849
+        },
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.024710344240358974
+        },
+        {
+            "font_name": "삼립호빵체",
+            "similarity": 0.02415589719683662
+        },
+        {
+            "font_name": "도현체",
+            "similarity": 0.0241134926340647
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.02378650177653697
+        },
+        {
+            "font_name": "구미첨단산업체",
+            "similarity": 0.023421630296760414
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.023306248888754065
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.022858300109808858
+        },
+        {
+            "font_name": "던파연단된칼날",
+            "similarity": 0.022622127939086335
+        }
+    ],
+    "을지로10년후체": [
+        {
+            "font_name": "삼립호빵체",
+            "similarity": 0.02116921807305695
+        },
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.020234052273524587
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.020185057458861146
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.01998664990459143
+        },
+        {
+            "font_name": "제주돌담체",
+            "similarity": 0.01996679932941816
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.01996662615914237
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.019912020764649468
+        },
+        {
+            "font_name": "머니그라피-픽셀",
+            "similarity": 0.01981722914913978
+        },
+        {
+            "font_name": "눈누기초고딕",
+            "similarity": 0.019792152181191163
+        },
+        {
+            "font_name": "자이언츠체",
+            "similarity": 0.01978877951096748
+        }
+    ],
+    "이사만루": [
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.03051805347920138
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.028036851853366053
+        },
+        {
+            "font_name": "자이언츠체",
+            "similarity": 0.027660734176816776
+        },
+        {
+            "font_name": "도현체",
+            "similarity": 0.027178329154837227
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.02554861833456034
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.025072512385301282
+        },
+        {
+            "font_name": "구미첨단산업체",
+            "similarity": 0.02492054584150406
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.024635909909182546
+        },
+        {
+            "font_name": "학교안심 알림장",
+            "similarity": 0.024114749535450626
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.024048092193730664
+        }
+    ],
+    "롯데리아촵땡겨체": [
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.024485107998043848
+        },
+        {
+            "font_name": "문경감홍사과체",
+            "similarity": 0.024429895358923443
+        },
+        {
+            "font_name": "리아체",
+            "similarity": 0.02398910756960474
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.02345143917691666
+        },
+        {
+            "font_name": "학교안심퍼즐",
+            "similarity": 0.023179938971618515
+        },
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.022000416949166216
+        },
+        {
+            "font_name": "읏맨-궁서체",
+            "similarity": 0.02107041425361366
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.020715827656607875
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.020714601529582134
+        },
+        {
+            "font_name": "제주돌담체",
+            "similarity": 0.020503006303393828
+        }
+    ],
+    "빈폴2020": [
+        {
+            "font_name": "싸락눈체",
+            "similarity": 0.018045875621633827
+        },
+        {
+            "font_name": "세방고딕체",
+            "similarity": 0.018026580024803247
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.017779492951231317
+        },
+        {
+            "font_name": "망고보드또박체",
+            "similarity": 0.017778753888700274
+        },
+        {
+            "font_name": "페이퍼로지",
+            "similarity": 0.01773044821200777
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.017714464253416492
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.01758778979064221
+        },
+        {
+            "font_name": "강한육군",
+            "similarity": 0.017519812660725064
+        },
+        {
+            "font_name": "마비옛체",
+            "similarity": 0.017369564256014495
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.01732086759728504
+        }
+    ],
+    "미원체": [
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.0252736384027546
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.02362042602489841
+        },
+        {
+            "font_name": "이사만루",
+            "similarity": 0.02303697139322191
+        },
+        {
+            "font_name": "카페24아네모네",
+            "similarity": 0.02290295787069997
+        },
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.02263149582041446
+        },
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.022021313817431148
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.022002476129650044
+        },
+        {
+            "font_name": "삼립호빵체",
+            "similarity": 0.021856592017972302
+        },
+        {
+            "font_name": "태나다체",
+            "similarity": 0.021800940043942056
+        },
+        {
+            "font_name": "도현체",
+            "similarity": 0.02175860412033553
+        }
+    ],
+    "빙그레메로나체": [
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.02827024503823587
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.028115407127227165
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.027636479609624644
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.027568589448055625
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.027523958653017093
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.027085095287895964
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.02679278734134371
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.02618206100113449
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.026127714941913103
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.02595442702093319
+        }
+    ],
+    "문경감홍사과체": [
+        {
+            "font_name": "롯데리아촵땡겨체",
+            "similarity": 0.024429895358923443
+        },
+        {
+            "font_name": "리아체",
+            "similarity": 0.024427446796629514
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.02344689788784248
+        },
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.02305969531898947
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.02232695141346878
+        },
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.021873534421247138
+        },
+        {
+            "font_name": "학교안심퍼즐",
+            "similarity": 0.021430302885047325
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.0213588868185351
+        },
+        {
+            "font_name": "읏맨-엉뚱체",
+            "similarity": 0.02072893652573351
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.020507264449106517
+        }
+    ],
+    "카페24아네모네": [
+        {
+            "font_name": "이사만루",
+            "similarity": 0.02554861833456034
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.025052623642829862
+        },
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.024528790463472293
+        },
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.0240347733467089
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.024028354126465607
+        },
+        {
+            "font_name": "도현체",
+            "similarity": 0.023142790231470232
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.02290295787069997
+        },
+        {
+            "font_name": "자이언츠체",
+            "similarity": 0.022858300109808858
+        },
+        {
+            "font_name": "태나다체",
+            "similarity": 0.02278475287216652
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.02266780338918334
+        }
+    ],
+    "Y최애체": [
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.028784252379109653
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.02860205347921198
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.02779235232151232
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.027258517902096602
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.026865456545862105
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.0268303152438564
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.02682488394907661
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.026427493498380732
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.026236728920228592
+        },
+        {
+            "font_name": "넥슨Lv",
+            "similarity": 0.025961487266338328
+        }
+    ],
+    "삼립호빵체outline": [
+        {
+            "font_name": "영도체",
+            "similarity": 0.017110120030678865
+        },
+        {
+            "font_name": "Y최애체",
+            "similarity": 0.01685078070766342
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.01684716133070071
+        },
+        {
+            "font_name": "노회찬체",
+            "similarity": 0.0167170555495277
+        },
+        {
+            "font_name": "넥슨메이플스토리",
+            "similarity": 0.016699808172626462
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.016606226012994097
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.01654171045614335
+        },
+        {
+            "font_name": "마비옛체",
+            "similarity": 0.01651983751112242
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.016456907051117745
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.016455098925064054
+        }
+    ],
+    "이랜드 초이스체": [
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.031054493215420004
+        },
+        {
+            "font_name": "D2Coding",
+            "similarity": 0.029778253125324217
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.02957594824955883
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.029528568945551115
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.02918140987982881
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.028410723424605117
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.028143155503485905
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.027901162624504778
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.027858202926028502
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.027198116055627112
+        }
+    ],
+    "롯데리아딱붙어체": [
+        {
+            "font_name": "티웨이날다체",
+            "similarity": 0.02428694540974552
+        },
+        {
+            "font_name": "카페24클래식타입",
+            "similarity": 0.023240993101829168
+        },
+        {
+            "font_name": "읏맨-궁서체",
+            "similarity": 0.022814561698415177
+        },
+        {
+            "font_name": "설립체유건욱",
+            "similarity": 0.020638947752516765
+        },
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.019992926956136282
+        },
+        {
+            "font_name": "롯데리아촵땡겨체",
+            "similarity": 0.019985611984427065
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.019782832503655822
+        },
+        {
+            "font_name": "학교안심퍼즐",
+            "similarity": 0.01976270359554689
+        },
+        {
+            "font_name": "HS봄바람체2",
+            "similarity": 0.01963136833114958
+        },
+        {
+            "font_name": "마초체",
+            "similarity": 0.01960104324420531
+        }
+    ],
+    "조선굴림체": [
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.026579207319719262
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.026480086713003607
+        },
+        {
+            "font_name": "카페24써라운드에어",
+            "similarity": 0.026432998887220126
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.026099134496671478
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.025987624637895022
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.02596224179714453
+        },
+        {
+            "font_name": "넥슨Lv",
+            "similarity": 0.025935113761611096
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.025648817927407412
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.025438703695927583
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.02533848183794588
+        }
+    ],
+    "HS산토끼체2": [
+        {
+            "font_name": "이사만루",
+            "similarity": 0.023917130098582616
+        },
+        {
+            "font_name": "삼립호빵체",
+            "similarity": 0.02281250673911986
+        },
+        {
+            "font_name": "구미첨단산업체",
+            "similarity": 0.02261667719255947
+        },
+        {
+            "font_name": "원스토어모바일고딕제목체",
+            "similarity": 0.022558969792928086
+        },
+        {
+            "font_name": "바른공군체",
+            "similarity": 0.022200992648765547
+        },
+        {
+            "font_name": "머니그라피-픽셀",
+            "similarity": 0.022134923768358378
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.022106839822326037
+        },
+        {
+            "font_name": "강한육군",
+            "similarity": 0.021958367870770778
+        },
+        {
+            "font_name": "눈누기초고딕",
+            "similarity": 0.02180458842657079
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.021560468422874287
+        }
+    ],
+    "넥슨메이플스토리": [
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.026395370170733005
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.025959539350423857
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.02582325805041336
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.02569791273152216
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.025644045356897408
+        },
+        {
+            "font_name": "Y최애체",
+            "similarity": 0.025517263275825985
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.025483603995350212
+        },
+        {
+            "font_name": "마비옛체",
+            "similarity": 0.025374961456968294
+        },
+        {
+            "font_name": "세방고딕체",
+            "similarity": 0.025281987273728122
+        },
+        {
+            "font_name": "강한육군",
+            "similarity": 0.025211974336491607
+        }
+    ],
+    "읏맨-궁서체": [
+        {
+            "font_name": "티웨이날다체",
+            "similarity": 0.02326877756147448
+        },
+        {
+            "font_name": "롯데리아딱붙어체",
+            "similarity": 0.022814561698415177
+        },
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.022066084481292946
+        },
+        {
+            "font_name": "카페24클래식타입",
+            "similarity": 0.021674877375129242
+        },
+        {
+            "font_name": "롯데리아촵땡겨체",
+            "similarity": 0.02107041425361366
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.020530474369409836
+        },
+        {
+            "font_name": "마초체",
+            "similarity": 0.020528991671243956
+        },
+        {
+            "font_name": "HS봄바람체2",
+            "similarity": 0.02025872171246834
+        },
+        {
+            "font_name": "이랜드나이스체",
+            "similarity": 0.02021778325002418
+        },
+        {
+            "font_name": "설립체유건욱",
+            "similarity": 0.020183749795054218
+        }
+    ],
+    "읏맨-엉뚱체": [
+        {
+            "font_name": "비트로코어체",
+            "similarity": 0.02276370497937432
+        },
+        {
+            "font_name": "리아체",
+            "similarity": 0.0219605322197613
+        },
+        {
+            "font_name": "문경감홍사과체",
+            "similarity": 0.02072893652573351
+        },
+        {
+            "font_name": "여기어때잘난체2",
+            "similarity": 0.02048098432903899
+        },
+        {
+            "font_name": "롯데리아촵땡겨체",
+            "similarity": 0.02038648464525079
+        },
+        {
+            "font_name": "베이글팻",
+            "similarity": 0.020350564381190962
+        },
+        {
+            "font_name": "강원교육튼튼",
+            "similarity": 0.02006413011215447
+        },
+        {
+            "font_name": "미원체",
+            "similarity": 0.019895002297083398
+        },
+        {
+            "font_name": "학교안심퍼즐",
+            "similarity": 0.019649102006153756
+        },
+        {
+            "font_name": "태나다체",
+            "similarity": 0.01961369274618477
+        }
+    ],
+    "경기천년바탕": [
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.024915215776184985
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.024706615352611563
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.02447154861167206
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.02412126823087249
+        },
+        {
+            "font_name": "카페24고운밤",
+            "similarity": 0.02381439387750583
+        },
+        {
+            "font_name": "빙그레메로나체",
+            "similarity": 0.023702882815474852
+        },
+        {
+            "font_name": "강원교육모두",
+            "similarity": 0.02368168322656227
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.023628775450984216
+        },
+        {
+            "font_name": "KoPub바탕",
+            "similarity": 0.02360215750837613
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.0235500718069104
+        }
+    ],
+    "페이퍼로지": [
+        {
+            "font_name": "G마켓산스",
+            "similarity": 0.027952167752849883
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.02753800385772547
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.02651327137306009
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.02642726069331036
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.02604936239340861
+        },
+        {
+            "font_name": "넥슨Lv",
+            "similarity": 0.025957920958521757
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.025776687973421097
+        },
+        {
+            "font_name": "LINESeed",
+            "similarity": 0.025711920932357336
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.02569170836269643
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.025674996456307917
+        }
+    ],
+    "본고딕": [
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.029799655978095873
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.02950574354500644
+        },
+        {
+            "font_name": "이랜드 초이스체",
+            "similarity": 0.02918140987982881
+        },
+        {
+            "font_name": "함렛",
+            "similarity": 0.028808755683714046
+        },
+        {
+            "font_name": "더잠실체",
+            "similarity": 0.02822561555513273
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.02737699463298209
+        },
+        {
+            "font_name": "구름산스",
+            "similarity": 0.027336621079184182
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.02722651682455481
+        },
+        {
+            "font_name": "한컴말랑말랑",
+            "similarity": 0.02717366321287409
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.026883245267970812
+        }
+    ],
+    "카페24써라운드에어": [
+        {
+            "font_name": "조선굴림체",
+            "similarity": 0.026432998887220126
+        },
+        {
+            "font_name": "창원단감아삭체",
+            "similarity": 0.025637874831180147
+        },
+        {
+            "font_name": "망고보드또박체",
+            "similarity": 0.025477310624469764
+        },
+        {
+            "font_name": "나눔스퀘어라운드",
+            "similarity": 0.025226990309859608
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.02475566265568226
+        },
+        {
+            "font_name": "프리텐다드",
+            "similarity": 0.024521530329359834
+        },
+        {
+            "font_name": "엘리스디지털코딩체",
+            "similarity": 0.024276323096983392
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.024190985400799118
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.02409959916981914
+        },
+        {
+            "font_name": "나눔고딕",
+            "similarity": 0.024006101029149563
+        }
+    ],
+    "빛의계승자체": [
+        {
+            "font_name": "KoPub바탕",
+            "similarity": 0.023388480253465262
+        },
+        {
+            "font_name": "경기천년바탕",
+            "similarity": 0.023274306910296312
+        },
+        {
+            "font_name": "함렛",
+            "similarity": 0.023103800523669
+        },
+        {
+            "font_name": "숙명눈꽃체",
+            "similarity": 0.02268498618129112
+        },
+        {
+            "font_name": "오르빗",
+            "similarity": 0.02258229701290271
+        },
+        {
+            "font_name": "빙그레메로나체",
+            "similarity": 0.022327952409030766
+        },
+        {
+            "font_name": "티머니둥근바람",
+            "similarity": 0.022244595319304863
+        },
+        {
+            "font_name": "WantedSans",
+            "similarity": 0.022038328559285635
+        },
+        {
+            "font_name": "나눔스퀘어",
+            "similarity": 0.022032833242029315
+        },
+        {
+            "font_name": "본고딕",
+            "similarity": 0.021847834040774842
+        }
+    ]
+}
