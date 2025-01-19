@@ -23,7 +23,21 @@ export function FontSimilar({ searchQuery, fontMap }) {
   
   return (
     <div className="w-full mt-8">
-      <h2 className="text-xl font-bold mb-4">비슷한 폰트</h2>
+      <div className="mb-6 p-6 bg-white rounded-xl border">
+        <h2 className="mb-2 text-lg font-medium">원본 폰트</h2>
+        <FontText
+          font={fontMap[searchQuery]}
+          style={{
+            fontSize: '24px',
+            lineHeight: 1.5
+          }}
+        >
+          {sampleText}
+        </FontText>
+        <p className="mt-2 text-sm text-gray-500">{searchQuery}</p>
+      </div>
+
+
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {similarFonts.map(({ name, font, similarity }) => (
           <div 
