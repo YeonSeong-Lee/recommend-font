@@ -5,7 +5,7 @@ import fontSimilarities from '@/data/font_similarities.json'
 
 export function FontSimilar({ searchQuery, fontMap }) {
   if (!searchQuery) return null
-  const sampleText = '폰트 테스트 문장입니다'
+  const sampleText = '다람쥐 헌 쳇바퀴에 타고파'
   console.info(fontSimilarities)
   
   // Get similar fonts for the searched font
