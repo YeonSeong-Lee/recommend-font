@@ -42,9 +42,6 @@ next-env.d.ts
 
 **/font_images
 
-**/font_images
-
-# virtual environment
 venv/*
 
 */font-algo/output_imgage/*
