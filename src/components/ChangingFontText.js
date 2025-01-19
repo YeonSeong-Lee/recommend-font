@@ -1,30 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import {
-  notoSansKr,
-  blackHanSans,
-  jua,
-  doHyeon,
-  stylish,
-  poorStory,
-  nanumPenScript,
-  gaegu,
-  pretendard
-} from '@/lib/fonts'
 import { FontText, FontLabel } from './FontText'
-
-const fonts = [
-  { name: 'Pretendard', weight: 700, className: pretendard.className },
-  { name: 'Noto Sans KR', weight: 900, className: notoSansKr.className },
-  { name: 'Black Han Sans', weight: 400, className: blackHanSans.className },
-  { name: 'Jua', weight: 400, className: jua.className },
-  { name: 'Do Hyeon', weight: 400, className: doHyeon.className },
-  { name: 'Stylish', weight: 400, className: stylish.className },
-  { name: 'Poor Story', weight: 400, className: poorStory.className },
-  { name: 'Nanum Pen Script', weight: 400, className: nanumPenScript.className },
-  { name: 'Gaegu', weight: 700, className: gaegu.className }
-]
 
 const colors = [
   '#2563eb', // blue-600
@@ -38,9 +15,14 @@ const colors = [
   '#ea580c'  // orange-600
 ]
 
-export function ChangingFontText() {
+export function ChangingFontText({ fontMap }) {
   const [currentFontIndex, setCurrentFontIndex] = useState(0)
   const [isChanging, setIsChanging] = useState(false)
+
+  const fonts = Object.keys(fontMap).map(fontName => ({
+    name: fontName,
+    ...fontMap[fontName]
+  }))
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -52,7 +34,7 @@ export function ChangingFontText() {
     }, 2000)
 
     return () => clearInterval(interval)
-  }, [])
+  }, [fonts.length])
 
   const animationStyle = {
     transition: 'all 0.3s ease',
@@ -71,7 +53,6 @@ export function ChangingFontText() {
       <FontText
         font={fonts[currentFontIndex]}
         style={animationStyle}
-        className="text-6xl md:text-6xl font-bold"
       >
         가장 비슷한 폰트
       </FontText>
