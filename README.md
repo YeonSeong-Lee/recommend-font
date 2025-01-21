@@ -1,6 +1,7 @@
 # 폰트 추천 서비스 (Font Recommendation Service)
-
-당신의 프로젝트에 어울리는 완벽한 폰트를 찾아드립니다. 웹사이트 URL 분석 또는 질문 기반 추천을 통해 최적의 폰트 조합을 제안받을 수 있습니다.
+ 
+당신의 프로젝트에 어울리는 비슷한 폰트를 찾아드립니다. 웹사이트 URL 분석 또는 질문 기반 추천을 통해 최적의 폰트 조합을 제안받을 수 있습니다.   
+   
 ![recommend-font-first-demo](https://github.com/user-attachments/assets/961496f7-5548-42e5-af27-265ab8abe398)
 
 
