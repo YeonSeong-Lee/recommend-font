@@ -30,7 +30,7 @@ def process_font(font_path, chars):
 		char_to_vector(font_path, font_name, char)
 
 def vectorize_fonts_multithreading(font_folder, chars):
-	font_paths = [os.path.join(font_folder, f) for f in os.listdir(font_folder) if f.lower().endswith(('.ttf', '.otf'))]
+	font_paths = [os.path.join(font_folder, f) for f in os.listdir(font_folder) if f.lower().endswith(('woff2'))]
 	
 	max_threads = 10  # 동시에 실행할 최대 스레드 수 제한
 	with ThreadPoolExecutor(max_threads) as executor:
@@ -41,13 +41,9 @@ def vectorize_fonts_multithreading(font_folder, chars):
 
 if __name__ == "__main__":
 	font_folder = "../public/fonts"
-	# latin_letters = [chr(i) for i in range(ord('A'), ord('Z') + 1)] + [chr(i) for i in range(ord('a'), ord('z') + 1)]
-	# korean_consonants = [chr(i) for i in range(ord('ㄱ'), ord('ㅎ') + 1)] + [chr(i) for i in range(ord('ㅏ'), ord('ㅣ') + 1)]
 
-	# chars_to_compare = latin_letters + korean_consonants
-
-	# chars_to_compare = ["다람쥐 헌 쳇바퀴에 타고파", "닭 콩팥 훔친 집사", "물컵 속 팥 찾던 형", "동틀 녘 햇빛 포개짐", "자동차 바퀴 틈새가 파랗니", "해태 옆 치킨집 닭맛", "코털 팽 대감네 첩 좋소"]
-	chars_to_compare = ["다람쥐 헌 쳇바퀴에 타고파"]
+	chars_to_compare = ["다람쥐 헌 쳇바퀴에 타고파", "닭 콩팥 훔친 집사", "물컵 속 팥 찾던 형", "동틀 녘 햇빛 포개짐", "자동차 바퀴 틈새가 파랗니", "해태 옆 치킨집 닭맛", "코털 팽 대감네 첩 좋소"]
+	# chars_to_compare = ["다람쥐 헌 쳇바퀴에 타고파"]
 
 	if os.path.exists("font_images"):
 		os.system("rm -rf font_images")
