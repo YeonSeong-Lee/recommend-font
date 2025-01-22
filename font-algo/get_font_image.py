@@ -4,7 +4,7 @@ from tqdm import tqdm
 import threading
 from concurrent.futures import ThreadPoolExecutor
 
-def char_to_vector(font_path, font_name, char, image_size=(800, 100)):
+def char_to_vector(font_path, font_name, char, image_size=(1000, 80)):
 	try:
 		font = ImageFont.truetype(font_path, image_size[1] * 3 // 4)
 		image = Image.new("L", image_size, color=0)
