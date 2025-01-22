@@ -3,76 +3,73 @@ import numpy as np
 import os
 import tqdm
 import json
+from multiprocessing import Pool, cpu_count
 
 def orb_similarity(img_path1, img_path2):
-	# 1) 이미지 로드 (그레이스케일)
-	img1 = cv2.imread(img_path1, cv2.IMREAD_GRAYSCALE)
-	img2 = cv2.imread(img_path2, cv2.IMREAD_GRAYSCALE)
-	
-	# 크기나 위치가 다를 경우, 미리 정렬/리사이즈 필요
-	if img1.shape != img2.shape:
-		img2 = cv2.resize(img2, (img1.shape[1], img1.shape[0]))
+    img1 = cv2.imread(img_path1, cv2.IMREAD_GRAYSCALE)
+    img2 = cv2.imread(img_path2, cv2.IMREAD_GRAYSCALE)
 
-	# 2) ORB 디텍터/디스크립터 생성
-	orb = cv2.ORB_create(nfeatures=10000000, scaleFactor=1.1, nlevels=30)
+    if img1.shape != img2.shape:
+        img2 = cv2.resize(img2, (img1.shape[1], img1.shape[0]))
 
-	# 3) 특징점과 디스크립터 추출
-	keypoints1, descriptors1 = orb.detectAndCompute(img1, None)
-	keypoints2, descriptors2 = orb.detectAndCompute(img2, None)
+    orb = cv2.ORB_create(nfeatures=10000000, scaleFactor=1.1, nlevels=30)
 
-	# 디스크립터가 없으면(글자가 너무 단순) 유사도 계산이 불가
-	if descriptors1 is None or descriptors2 is None:
-		return 0.0
+    keypoints1, descriptors1 = orb.detectAndCompute(img1, None)
+    keypoints2, descriptors2 = orb.detectAndCompute(img2, None)
 
-	# 4) BFMatcher(Brute Force)로 매칭
-	bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)
-	matches = bf.match(descriptors1, descriptors2)
-	
-	# 매칭점 distance 기반 정렬
-	matches = sorted(matches, key=lambda x: x.distance)
-	
-	# 5) 유사도(점수) 계산
-	# 여기서는 간단히 평균 distance를 사용 (distance가 작을수록 유사)
-	avg_distance = np.mean([m.distance for m in matches])
-	# distance 범위에 따라 가중치를 두어 0~1 스케일로 변환하는 식으로 응용 가능
-	# 예를 들어 아래처럼 간단히 정규화(예시):
-	similarity_score = 1 / (1 + avg_distance)  # 임의의 방식
+    if descriptors1 is None or descriptors2 is None:
+        return 0.0
 
-	return similarity_score
+    bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)
+    matches = bf.match(descriptors1, descriptors2)
 
-def calculate_font_similarity(font_dir1, font_dir2):
-	total_similarity = 0.0
-	count = 0
+    matches = sorted(matches, key=lambda x: x.distance)
 
-	for char in os.listdir(font_dir1):
-		img1_path = os.path.join(font_dir1, char)
-		img2_path = os.path.join(font_dir2, char)
+    avg_distance = np.mean([m.distance for m in matches])
+    similarity_score = 1 / (1 + avg_distance)
 
-		if os.path.exists(img2_path):
-			similarity = orb_similarity(img1_path, img2_path)
-			total_similarity += similarity
-			count += 1
+    return similarity_score
 
-	if count > 0:
-		return total_similarity / count
-	else:
-		return 0.0
+def calculate_font_similarity(font_pair):
+    font_dir1, font_dir2 = font_pair
+    total_similarity = 0.0
+    count = 0
+
+    for char in os.listdir(font_dir1):
+        img1_path = os.path.join(font_dir1, char)
+        img2_path = os.path.join(font_dir2, char)
+
+        if os.path.exists(img2_path):
+            similarity = orb_similarity(img1_path, img2_path)
+            total_similarity += similarity
+            count += 1
+
+    return total_similarity / count if count > 0 else 0.0
+
+def process_target_font(args):
+    target_font, compare_fonts, font_images_dir = args
+    results = []
+    for font in compare_fonts:
+        similarity = calculate_font_similarity(
+            (os.path.join(font_images_dir, target_font), os.path.join(font_images_dir, font))
+        )
+        results.append({"font_name": font.split('.')[0], "similarity": similarity})
+    results = sorted(results, key=lambda x: x["similarity"], reverse=True)
+    return os.path.splitext(os.path.basename(target_font))[0], results[1:11]
 
 if __name__ == "__main__":
-	target_fonts = compare_fonts = os.listdir("data/font_images")
-	result = {}
-	
-	for target_font in tqdm.tqdm(target_fonts, "Target Fonts"):
-		tmp = []
- 
-		for font in tqdm.tqdm(compare_fonts, f"Comparing {target_font}"):
-			similarity = calculate_font_similarity(os.path.join('data/font_images', target_font), os.path.join('data/font_images', font))
-			tmp.append({"font_name": font.split('.')[0], "similarity": similarity})
+    font_images_dir = "font_images"
+    target_fonts = os.listdir(font_images_dir)
+    compare_fonts = os.listdir(font_images_dir)
 
-		tmp = sorted(tmp, key=lambda x: x["similarity"], reverse=True)
-  
-		result[target_font.split('.')[0]] = tmp[1:11]
+    tasks = [(target_font, compare_fonts, font_images_dir) for target_font in target_fonts]
 
+    # 멀티프로세싱 Pool 사용
+    with Pool(cpu_count()) as pool:
+        results = list(tqdm.tqdm(pool.imap_unordered(process_target_font, tasks), total=len(tasks), desc="Processing Fonts"))
 
-	with open('../data/font_similarities.json', 'w', encoding='utf-8') as file:
-		json.dump(result, file, ensure_ascii=False, indent=4)
+    # 결과를 JSON에 저장
+    result_dict = {font_name: data for font_name, data in results}
+
+    with open('../data/font_similarities.json', 'w', encoding='utf-8') as file:
+        json.dump(result_dict, file, ensure_ascii=False, indent=4)
