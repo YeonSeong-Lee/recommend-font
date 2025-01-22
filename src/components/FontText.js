@@ -1,7 +1,7 @@
 export function FontText({ font, style, children }) {
   return (
     <span
-      className={`mt-5 ${font.className} text-6xl md:text-6xl font-bold text-gray-900 dark:text-gray-100 transition-colors duration-200`}
+      className={`mt-5 ${font?.className} text-6xl md:text-6xl font-bold text-gray-900 dark:text-gray-100 transition-colors duration-200`}
       style={{
         fontWeight: font.weight,
         display: 'inline-block',
