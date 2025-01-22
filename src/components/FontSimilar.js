@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { FontText } from './FontText'
+import { FontTextEditable } from './FontTextEditable'
 import fontSimilarities from '@/data/font_similarities.json'
 
 export function FontSimilar({ searchQuery, fontMap, sampleText = '폰트 테스트 문장입니다' }) {
@@ -28,29 +28,14 @@ export function FontSimilar({ searchQuery, fontMap, sampleText = '폰트 테스�
       <div className="mb-6 p-6 bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 transition-colors duration-200">
         <h2 className="mb-2 text-lg font-medium text-gray-900 dark:text-gray-100">원본 폰트</h2>
         <div className="space-y-4">
-          <FontText
+          <FontTextEditable
             font={fontMap[searchQuery]}
             style={{
               fontSize: '24px',
               lineHeight: 1.5
             }}
-          >
-            {text}
-          </FontText>
-          <input
-            type="text"
             value={text}
             onChange={(e) => setText(e.target.value)}
-            className="w-full px-3 py-2 
-              bg-white dark:bg-gray-800 
-              text-gray-900 dark:text-gray-100
-              border border-gray-200 dark:border-gray-700 
-              rounded-lg 
-              focus:outline-none focus:ring-2 
-              focus:ring-blue-500 dark:focus:ring-blue-400
-              placeholder-gray-500 dark:placeholder-gray-400
-              transition-colors duration-200"
-            placeholder="텍스트를 입력하세요"
           />
         </div>
         <p className="mt-2 text-sm text-gray-500 dark:text-gray-400">{searchQuery}</p>
@@ -67,15 +52,15 @@ export function FontSimilar({ searchQuery, fontMap, sampleText = '폰트 테스�
               hover:border-blue-500 dark:hover:border-blue-400 
               transition-colors duration-200"
           >
-            <FontText
+            <FontTextEditable
               font={font}
               style={{
                 fontSize: '24px',
                 lineHeight: 1.5
               }}
-            >
-              {text}
-            </FontText>
+              value={text}
+              onChange={(e) => setText(e.target.value)}
+            />
             <div className="mt-2">
               <p className="text-sm text-gray-500 dark:text-gray-400">{name}</p>
             </div>
