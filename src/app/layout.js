@@ -15,9 +15,15 @@ export default function RootLayout({ children }) {
     <html lang="ko" suppressHydrationWarning>
       <head>
         <meta name="google-adsense-account" content="ca-pub-7275281216554032" />
+        <script async custom-element="amp-auto-ads"
+          src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+        </script>
       </head>
       <body className={`${inter.className} flex flex-col min-h-screen bg-white text-gray-900 transition-colors duration-200
         dark:bg-gray-950 dark:text-gray-100`}>
+        <amp-auto-ads type="adsense"
+         data-ad-client="ca-pub-7275281216554032">
+        </amp-auto-ads>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <main className="flex-grow">
             {children}
