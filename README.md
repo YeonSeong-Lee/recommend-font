@@ -1,7 +1,7 @@
 # 폰트 추천 서비스 (Font Recommendation Service)
  비슷한 폰트를 찾아드립니다. 한글 폰트 검색을 통해 유사한 폰트를 추천받을 수 있습니다.   
    
-![recommend-font-first-demo](https://github.com/user-attachments/assets/961496f7-5548-42e5-af27-265ab8abe398)
+![recommend-font-demo](https://github.com/user-attachments/assets/128aaccb-1b5d-4c88-9e50-63bd24c4129c)
 
 ## 주요 기능
 
