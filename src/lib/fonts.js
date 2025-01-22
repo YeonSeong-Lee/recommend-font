@@ -578,3 +578,27 @@ export const gyeonggiCheonnyeonBatang = localFont({
 
   display: "swap",
 });
+
+export const gowonDotum = localFont({
+  src: "../../public/fonts/고원돋움.woff2",
+
+  display: "swap",
+});
+
+export const ghanaChocolate = localFont({
+  src: "../../public/fonts/가나초콜릿.woff2",
+
+  display: "swap",
+});
+
+export const chosunCentennial = localFont({
+  src: "../../public/fonts/조선백년.woff2",
+
+  display: "swap",
+});
+
+export const HSGooltokki = localFont({
+  src: "../../public/fonts/HS굴토끼.woff2",
+
+  display: "swap",
+});

@@ -95,6 +95,10 @@ import {
   mangoDdobak,
   maplestory,
   moneygraphy,
+  chosunCentennial,
+  HSGooltokki,
+  gowonDotum,
+  ghanaChocolate,
 } from "@/lib/fonts";
 
 export const fontMap = {
@@ -193,4 +197,8 @@ export const fontMap = {
   강원교육모두: gangwonEduAll,
   강원교육튼튼: gangwonEduPower,
   경기천년바탕: gyeonggiCheonnyeonBatang,
+  고원돋움: gowonDotum,
+  가나초콜릿: ghanaChocolate,
+  조선백년: chosunCentennial,
+  HS굴토끼: HSGooltokki,
 };
