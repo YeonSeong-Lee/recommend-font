@@ -11,7 +11,7 @@ def char_to_vector(font_path, font_name, char, image_size=(800, 100)):
 		draw = ImageDraw.Draw(image)
 		width, height = draw.textlength(char, font=font), draw.textbbox((0, 0), char, font=font)[3]
 		draw.text(((image_size[0] - width) / 2, (image_size[1] - height) / 2), char, fill=255, font=font)
-		image.save(f"data/font_images/{font_name}/{char}.png")
+		image.save(f"font_images/{font_name}/{char}.png")
 
 	except OSError:
 		print(f"Error: Font file not found at {font_path}")
@@ -19,9 +19,10 @@ def char_to_vector(font_path, font_name, char, image_size=(800, 100)):
 	except Exception as e:
 		print(f"An error occurred: {e}")
 		return None
+
 def process_font(font_path, chars):
 	font_name = os.path.basename(font_path)
-	font_output_dir = f"data/font_images/{font_name}"
+	font_output_dir = f"font_images/{font_name}"
 
 	os.makedirs(font_output_dir, exist_ok=True)
 
@@ -45,9 +46,10 @@ if __name__ == "__main__":
 
 	# chars_to_compare = latin_letters + korean_consonants
 
-	chars_to_compare = ["다람쥐 헌 쳇바퀴에 타고파", "닭 콩팥 훔친 집사", "물컵 속 팥 찾던 형", "동틀 녘 햇빛 포개짐", "자동차 바퀴 틈새가 파랗니", "해태 옆 치킨집 닭맛", "코털 팽 대감네 첩 좋소"]
+	# chars_to_compare = ["다람쥐 헌 쳇바퀴에 타고파", "닭 콩팥 훔친 집사", "물컵 속 팥 찾던 형", "동틀 녘 햇빛 포개짐", "자동차 바퀴 틈새가 파랗니", "해태 옆 치킨집 닭맛", "코털 팽 대감네 첩 좋소"]
+	chars_to_compare = ["다람쥐 헌 쳇바퀴에 타고파"]
 
-	if os.path.exists("output_images"):
-		os.system("rm -rf output_images")
+	if os.path.exists("font_images"):
+		os.system("rm -rf font_images")
 
 	vectorize_fonts_multithreading(font_folder, chars_to_compare)

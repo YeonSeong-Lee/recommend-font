@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Create necessary directories
-mkdir -p data/font_images
+mkdir -p font_images
 
 # Run Python scripts
 echo "Generating font images..."
