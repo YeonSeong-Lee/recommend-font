@@ -54,7 +54,6 @@ import {
   nanumSquare,
   nanumSquareRound,
   noonnuBasicGothic,
-  notoSansKR,
   okGung,
   okmanFont,
   oneMobileTitle,
@@ -99,6 +98,10 @@ import {
   HSGooltokki,
   gowonDotum,
   ghanaChocolate,
+  ddanggyeo,
+  ganghanArmy,
+  blackGothic,
+  jeonjuWanpanbon,
 } from "@/lib/fonts";
 
 export const fontMap = {
@@ -120,6 +123,7 @@ export const fontMap = {
   "기후위기-한글": climateCrisisKR2010,
   D2Coding: d2Coding,
   롯데리아딱붙어체: ddag,
+  롯데리아촵땡겨체: ddanggyeo,
   던파연단된칼날: dnfforgedblade,
   도스고딕: dosGothic,
   "둥근모꼴+Fixedsys": dungGeunMo,
@@ -160,7 +164,7 @@ export const fontMap = {
   나눔스퀘어: nanumSquare,
   나눔스퀘어라운드: nanumSquareRound,
   눈누기초고딕: noonnuBasicGothic,
-  본고딕: notoSansKR,
+  본고딕: notoSansKr,
   "읏맨-궁서체": okGung,
   "읏맨-엉뚱체": okmanFont,
   원스토어모바일고딕제목체: oneMobileTitle,
@@ -201,4 +205,7 @@ export const fontMap = {
   가나초콜릿: ghanaChocolate,
   조선백년: chosunCentennial,
   HS굴토끼: HSGooltokki,
+  강한육군: ganghanArmy,
+  검은고딕: blackGothic,
+  전주완판본순체: jeonjuWanpanbon,
 };

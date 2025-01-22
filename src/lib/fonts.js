@@ -101,6 +101,11 @@ export const ddag = localFont({
   display: "swap",
 });
 
+export const ddanggyeo = localFont({
+  src: "../../public/fonts/롯데리아촵땡겨체.woff2",
+  display: "swap",
+});
+
 export const dnfforgedblade = localFont({
   src: "../../public/fonts/던파연단된칼날.woff2",
   display: "swap",
@@ -298,11 +303,6 @@ export const nanumSquareRound = localFont({
 
 export const noonnuBasicGothic = localFont({
   src: "../../public/fonts/눈누기초고딕.woff2",
-  display: "swap",
-});
-
-export const notoSansKR = localFont({
-  src: "../../public/fonts/본고딕.woff2",
   display: "swap",
 });
 
@@ -505,3 +505,18 @@ export const HSGooltokki = localFont({
   src: "../../public/fonts/HS굴토끼.woff2",
   display: "swap",
 });
+
+export const ganghanArmy = localFont({
+  src: '../../public/fonts/강한육군.woff2',
+  display: 'swap'
+})
+
+export const blackGothic = localFont({
+  src: '../../public/fonts/검은고딕.woff2',
+  display: 'swap'
+})
+
+export const jeonjuWanpanbon = localFont({
+  src: '../../public/fonts/전주완판본순체.woff2',
+  display: 'swap'
+})
