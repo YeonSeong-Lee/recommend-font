@@ -79,8 +79,10 @@ export function ChangingFontText({ fontMap }) {
       <FontText
         font={fonts[currentFontIndex]}
         style={animationStyle}
+        className="text-2xl sm:text-3xl md:text-4xl"
       >
-        가장 비슷한 폰트
+        <span className="sm:hidden">가장 비슷한<br />폰트</span>
+        <span className="hidden sm:inline">가장 비슷한 폰트</span>
       </FontText>
       <FontLabel
         fontName={fonts[currentFontIndex].name}
