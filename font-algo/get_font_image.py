@@ -4,7 +4,7 @@ from tqdm import tqdm
 import threading
 from concurrent.futures import ThreadPoolExecutor
 
-def char_to_vector(font_path, font_name, char, image_size=(1000, 80)):
+def char_to_vector(font_path, font_name, char, image_size=(2000, 80)):
 	try:
 		font = ImageFont.truetype(font_path, image_size[1] * 3 // 4)
 		image = Image.new("L", image_size, color=0)
@@ -42,7 +42,7 @@ def vectorize_fonts_multithreading(font_folder, chars):
 if __name__ == "__main__":
 	font_folder = "../public/fonts"
 
-	chars_to_compare = ["다람쥐 헌 쳇바퀴에 타고파", "닭 콩팥 훔친 집사", "물컵 속 팥 찾던 형", "동틀 녘 햇빛 포개짐", "자동차 바퀴 틈새가 파랗니", "해태 옆 치킨집 닭맛", "코털 팽 대감네 첩 좋소"]
+	chars_to_compare = ["다람쥐 헌 쳇바퀴에 타고파", "닭 콩팥 훔친 집사", "물컵 속 팥 찾던 형", "동틀 녘 햇빛 포개짐", "자동차 바퀴 틈새가 파랗니", "해태 옆 치킨집 닭맛", "코털 팽 대감네 첩 좋소","1234567890", "The quick brown fox jumps over a(the) lazy dog", "Pack my box with five dozen liquor jugs", "Jackdaws love my big sphinx of quartz"]
 	# chars_to_compare = ["다람쥐 헌 쳇바퀴에 타고파"]
 
 	if os.path.exists("font_images"):

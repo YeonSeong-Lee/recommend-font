@@ -53,7 +53,7 @@ def process_target_font(args):
         similarity = calculate_font_similarity(
             (os.path.join(font_images_dir, target_font), os.path.join(font_images_dir, font))
         )
-        results.append({"font_name": font.split('.')[0], "similarity": similarity})
+        results.append({"font_name": os.path.splitext(os.path.basename(font))[0], "similarity": similarity})
     results = sorted(results, key=lambda x: x["similarity"], reverse=True)
     return os.path.splitext(os.path.basename(target_font))[0], results[1:11]
 
