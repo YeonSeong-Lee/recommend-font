@@ -1,15 +1,15 @@
-'use client'
+"use client"
 
-import { useState } from 'react'
-import { ChangingFontText } from '@/components/ChangingFontText'
-import { FontSearch } from '@/components/FontSearch'
-import { FontSimilar } from '@/components/FontSimilar'
-import { fontMap } from '@/lib/fontMap'
-import ThemeToggle from '@/components/ThemeToggle'
+import { useState } from "react"
+import { ChangingFontText } from "@/components/ChangingFontText"
+import { FontSearch } from "@/components/FontSearch"
+import { FontSimilar } from "@/components/FontSimilar"
+import { fontMap } from "@/lib/fontMap"
+import ThemeToggle from "@/components/ThemeToggle"
 
 export default function Home() {
-  const [searchQuery, setSearchQuery] = useState('')
-  const fontList = Object.keys(fontMap)
+  const [searchQuery, setSearchQuery] = useState("")
+  const fontList = Object.keys(fontMap).sort()
 
   return (
     <div className="relative min-h-screen">
